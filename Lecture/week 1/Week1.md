@@ -1,6 +1,6 @@
 # CS209A Lecture 1
 
-上了第一节课，感觉这个课是一个大杂烩，CS专业的各个方面课程都有涉及，比如说CS202组成原理，CS305计算机网络，CS306数据挖掘，CS309面向对象，CS304软件工程，CS302操作系统，CS323编译原理等等。
+上了第一节课，感觉这个课是一个大杂烩，CS专业的各个方面课程都有涉及，比如说CS202组成原理，CS302操作系统，CS304软件工程，CS305计算机网络，CS306数据挖掘，CS309面向对象，CS323编译原理等等。
 
 ## Outline 
 - Course Introduction
@@ -151,6 +151,8 @@ class GoodDemo{
 
 ## Part 4.OOP Concepts
 
+OOP的四大基本概念：Encapsulation，Abstraction，Inheritance，Polymorphism
+
 ### 4.1 Class, Object and Instance
 
 ### 4.2 Encapsulation
@@ -161,7 +163,7 @@ class GoodDemo{
 
 提供getter和setter来实现对于数据的操作。
 
-Tips：getter获取的类型如果不是基本数据类型，那么可能有数据安全性问题。
+Tips：getter获取的类型如果不是基本数据类型（如数组），那么可能有数据安全性问题。
 
 **Example** 22春季Java1A第四次作业第一题BigBinary，就特别强调了数据安全性问题。
 
@@ -187,3 +189,50 @@ Abstraction是从设计上解决问题（解决要有哪些东西），而Encaps
 不能实例化，必须要有对应的实现类来完成实例化。
 
 ### 4.4 Inheritance
+
+多个类对象之间，可能有相似或者共通的属性。
+
+Inheritance允许新的类基于已经存在的类进行创建，可以承接原有的类成员变量和方法。
+
+Inheritance存在的意义是可以减少代码冗余和增强代码复用。
+
+![image](https://user-images.githubusercontent.com/64548919/189828661-78e5e264-f58a-4853-b71a-f1484dc261eb.png)
+
+课件上的例子1：这是一个Cat继承Animal的例子。
+
+注意类图中，继承的关系是extends箭头，由Cat指向Animal
+
+- Cat子类可以直接继承Animal的weight属性
+- Cat子类可以自定义更多其他的属性如tail
+- Cat子类可以直接用继承的方法如sleep，也可以重写原先的方法如eat
+- Cat子类可以定义新方法如huntMice
+
+课件上的例子2：Java的继承体系中，java.lang.Object类是所有类的父类。
+
+有一些规定的方法：
+
+- boolean equals(Object obj)
+
+判断两个对象是否相等。注意Object中是最原始的比较方法，用==比较二者的地址
+
+- String toString()
+
+输出对象的字符串表示。默认是类名+"@"+hashcode()
+
+### 4.5 Polymorphism
+
+多态的理解：同一种类型的对象，可能因为继承的实现体不同而有多种不一样的行为。
+
+课件上的例子：
+
+shapelist是一个Shape类型的数组。Shape是许多类型的父类，如Rectangle，Oval，RoundRect等等。他们都属于Shape类型，但是执行redraw方法的时候，画出图案的行为是迥异的。
+
+虽然他们画的行为是差异较大的，但是他们并不需要定义不同的redraw，可以同时使用redraw这一个公共接口。
+
+![image](https://user-images.githubusercontent.com/64548919/189830235-2bfcca2b-c01a-4c77-96df-cd850cc246a2.png)
+
+
+**Binding**
+
+- Static Binding: 编译期即确定了操作对象与调用方法的绑定，比如说方法的重载。
+- Dynamic Binding: 运行期才能确定操作对象与调用方法的绑定，比如说方法的重写（如Animal例子里面的eat，Shape例子里面的redraw）。
