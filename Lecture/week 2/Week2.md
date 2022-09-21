@@ -272,6 +272,21 @@ partView.clear();
 | ArrayList      | O(n) | O(n)   | O(1) | O(1) |
 | LinkedList     | O(n) | O(n)   | O(n) | O(n) |
 
+**Set接口**
+
+有好几个Set接口的实现：
+
+- HashSet
+- LinkedHashSet
+- TreeSet
+
+|          | HashSet | LinkedHashSet | TreeSet      |
+|----------|---------|---------------|--------------|
+| 实现方式 | HashMap | LinkedHashMap | Tree         |
+| 元素顺序 | 不维护  | 维护插入顺序  | 维护默认顺序 |
+| 性能     | 最好    | 中等          | 最差         |
+| null元素 | 至多1   | 至多1         | 不允许       |
+
 
 **Map接口**
 
@@ -290,7 +305,7 @@ HashMap的实现原理是数组+链表。
 - TreeMap：需要保证插入时有序的时候使用
 
 共同点：
-- 除了TreeSet和TreeMap，禁止null元素出现在keys中或者values中
+- 除了TreeSet和TreeMap，允许null元素出现在keys中或者values中
 - 都是Serializable
 - 都不是synchronized
 - 都有fail-fast iterators（并发条件下，如果有多个线程尝试对集合做修改，那么就会触发异常）
