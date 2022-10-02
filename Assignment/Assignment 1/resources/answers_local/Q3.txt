@@ -1,0 +1,2922 @@
+[Joe Pesci, Robert De Niro] == 4
+[Al Pacino, Robert De Niro] == 3
+[Carrie Fisher, Harrison Ford] == 3
+[Takashi Shimura, Toshirô Mifune] == 3
+[Elijah Wood, Ian McKellen] == 3
+[Ian McKellen, Orlando Bloom] == 3
+[Elijah Wood, Orlando Bloom] == 3
+[Ethan Hawke, Julie Delpy] == 3
+[Tatsuya Nakadai, Toshirô Mifune] == 3
+[Carrie Fisher, Mark Hamill] == 3
+[Christian Bale, Michael Caine] == 3
+[Harrison Ford, Mark Hamill] == 3
+[Kajol, Shah Rukh Khan] == 2
+[Joseph Cotten, Orson Welles] == 2
+[Paul Newman, Strother Martin] == 2
+[André Ramiro, Milhem Cortaz] == 2
+[Daryl Hannah, Uma Thurman] == 2
+[Akshay Kumar, Paresh Rawal] == 2
+[Daryl Hannah, David Carradine] == 2
+[Clint Eastwood, Lee Van Cleef] == 2
+[Joe Russo, Robert Downey Jr.] == 2
+[Al Pacino, Diane Keaton] == 2
+[Prabhas, Rana Daggubati] == 2
+[Arnold Schwarzenegger, Linda Hamilton] == 2
+[Tim Allen, Tom Hanks] == 2
+[Karl Malden, Marlon Brando] == 2
+[Billy Dee Williams, Mark Hamill] == 2
+[Buster Keaton, Marion Mack] == 2
+[Clint Eastwood, Gian Maria Volontè] == 2
+[Chris Evans, Robert Downey Jr.] == 2
+[Donald O'Connor, Gene Kelly] == 2
+[Clint Eastwood, Morgan Freeman] == 2
+[Boman Irani, Sanjay Dutt] == 2
+[Buster Keaton, Glen Cavender] == 2
+[Billy Dee Williams, Carrie Fisher] == 2
+[André Ramiro, Wagner Moura] == 2
+[Chris Hemsworth, Mark Ruffalo] == 2
+[Aamir Khan, Sharman Joshi] == 2
+[Michael Madsen, Uma Thurman] == 2
+[Anupam Kher, Jimmy Sheirgill] == 2
+[Milhem Cortaz, Wagner Moura] == 2
+[Graham Chapman, John Cleese] == 2
+[Jinpachi Nezu, Tatsuya Nakadai] == 2
+[David Carradine, Uma Thurman] == 2
+[Billy Dee Williams, Harrison Ford] == 2
+[Paul Newman, Robert Redford] == 2
+[Anatoliy Solonitsyn, Nikolay Grinko] == 2
+[Charles Chaplin, Henry Bergman] == 2
+[Minoru Chiaki, Toshirô Mifune] == 2
+[Joe Russo, Mark Ruffalo] == 2
+[Daryl Hannah, Michael Madsen] == 2
+[Hugh Jackman, Patrick Stewart] == 2
+[Anouk Aimée, Marcello Mastroianni] == 2
+[James Woods, Robert De Niro] == 2
+[Ian McKellen, Viggo Mortensen] == 2
+[Bibi Andersson, Gunnar Björnstrand] == 2
+[Debbie Reynolds, Gene Kelly] == 2
+[Mark Ruffalo, Robert Downey Jr.] == 2
+[Preity Zinta, Saif Ali Khan] == 2
+[David Carradine, Michael Madsen] == 2
+[Alec Guinness, Jack Hawkins] == 2
+[Arshad Warsi, Sanjay Dutt] == 2
+[Charles Chaplin, Paulette Goddard] == 2
+[Orlando Bloom, Viggo Mortensen] == 2
+[Elijah Wood, Viggo Mortensen] == 2
+[Enzo Cannavale, Isa Danieli] == 1
+[Christopher Heyerdahl, Richard Dormer] == 1
+[Roman Griffin Davis, Thomasin McKenzie] == 1
+[Ben Affleck, Tyler Perry] == 1
+[Brendan Gleeson, Tom Cruise] == 1
+[Diego Starosta, María Marull] == 1
+[Ciarán Hinds, Elizabeth Berrington] == 1
+[Burt Young, Sylvester Stallone] == 1
+[Jack Nicholson, Matt Damon] == 1
+[Edward James Olmos, Sean Young] == 1
+[Erwin Connelly, Joe Keaton] == 1
+[Mahesh Manjrekar, Paresh Rawal] == 1
+[Lorella Cravotta, Rufus] == 1
+[Chris Evans, Daniel Craig] == 1
+[Rana Daggubati, Taapsee Pannu] == 1
+[Jeff Goldblum, Sam Neill] == 1
+[Aamir Khan, Gracy Singh] == 1
+[Jena Malone, Mary McDonnell] == 1
+[Mayumi Tanaka, Minori Terada] == 1
+[Ingrid Bergman, Paul Henreid] == 1
+[Philip Seymour Hoffman, Toni Collette] == 1
+[Robert De Niro, Val Kilmer] == 1
+[Omar Sharif, Rod Steiger] == 1
+[Jodie Foster, Lawrence A. Bonney] == 1
+[Faye Dunaway, Perry Lopez] == 1
+[Anthony Hopkins, Kasi Lemmons] == 1
+[Claude Rains, Paul Henreid] == 1
+[Joseph Cotten, Trevor Howard] == 1
+[Dana Andrews, Gene Tierney] == 1
+[Faye Dunaway, John Huston] == 1
+[David Morse, Tom Hanks] == 1
+[Dibyendu Bhattacharya, Mahie Gill] == 1
+[Isabelle Huppert, Jean-Louis Trintignant] == 1
+[Sermin Hürmeriç, Ugur Yücel] == 1
+[Noémie Merlant, Valeria Golino] == 1
+[Aamir Khan, Sakshi Tanwar] == 1
+[George Raft, Jack Lemmon] == 1
+[Madeline Kahn, Peter Boyle] == 1
+[Cary-Hiroyuki Tagawa, Richard Gere] == 1
+[Donnie Yen, Siu-Wong Fan] == 1
+[Daveigh Chase, Miyu Irino] == 1
+[Denholm Elliott, Harrison Ford] == 1
+[Maureen O'Sullivan, William Powell] == 1
+[Claude Rains, Ingrid Bergman] == 1
+[Ricardo Darín, Soledad Villamil] == 1
+[Kirk Douglas, Porter Hall] == 1
+[Jim Carrey, Tom Wilkinson] == 1
+[Annalise Basso, Viggo Mortensen] == 1
+[Richard Attenborough, Steve McQueen] == 1
+[Victor Buono, Wesley Addy] == 1
+[Jason Cope, Sharlto Copley] == 1
+[Carrie-Anne Moss, Laurence Fishburne] == 1
+[Catherine O'Hara, William Hickey] == 1
+[John Hillerman, Madeline Kahn] == 1
+[Thelma Ritter, Wendell Corey] == 1
+[Agnes Moorehead, Joseph Cotten] == 1
+[Nawazuddin Siddiqui, Vidya Balan] == 1
+[Merila Zare'i, Taraneh Alidoosti] == 1
+[Christopher Lloyd, Lea Thompson] == 1
+[Bruce Bennett, Humphrey Bogart] == 1
+[Ken Watanabe, Michael Caine] == 1
+[Charles Chaplin, Tom Murray] == 1
+[Jane Galloway Heitz, Joseph A. Carpenter] == 1
+[Arnold Schwarzenegger, Robert Patrick] == 1
+[Jane Greer, Rhonda Fleming] == 1
+[Mary Astor, Peter Lorre] == 1
+[Andie MacDowell, Stephen Tobolowsky] == 1
+[Kangana Ranaut, Rajkummar Rao] == 1
+[Aurore Clément, Dean Stockwell] == 1
+[Gary Oldman, Kevin Costner] == 1
+[Harshaali Malhotra, Nawazuddin Siddiqui] == 1
+[Meena, Mohanlal] == 1
+[Curt Bois, Solveig Dommartin] == 1
+[Ilker Kizmaz, Mete Horozoglu] == 1
+[Malcolm McDowell, Patrick Magee] == 1
+[James Garner, Richard Attenborough] == 1
+[Fengyi Zhang, Leslie Cheung] == 1
+[Henrik Dahl, Per Ragnar] == 1
+[Christopher Plummer, Eleanor Parker] == 1
+[Janine Darcey, Jean Servais] == 1
+[Kyôko Kagawa, Toshirô Mifune] == 1
+[Alexandre Rodrigues, Leandro Firmino] == 1
+[Mahershala Ali, Viggo Mortensen] == 1
+[Margot Robbie, Matthew McConaughey] == 1
+[Lin-Manuel Miranda, Phillipa Soo] == 1
+[Javier Bardem, Lola Dueñas] == 1
+[Colin Firth, Helena Bonham Carter] == 1
+[Hümeyra, Çetin Tekindor] == 1
+[Beverly D'Angelo, Jennifer Lien] == 1
+[Sanjay Dutt, Sunil Dutt] == 1
+[Diane Keaton, Robert Duvall] == 1
+[Gene Wilder, Madeline Kahn] == 1
+[Guy Pearce, Joe Pantoliano] == 1
+[Ruth Gordon, Sidney Blackmer] == 1
+[Julian Dennison, Rachel House] == 1
+[Alison Doody, Sean Connery] == 1
+[Dean Martin, Ricky Nelson] == 1
+[Frantz Turner, John Gallagher Jr.] == 1
+[Keiju Kobayashi, Tatsuya Nakadai] == 1
+[Gorô Naya, Hisako Kyôda] == 1
+[Jack Carson, Raymond Massey] == 1
+[Aaron Eckhart, Michael Caine] == 1
+[Eva Green, Judi Dench] == 1
+[Kåre Hedebrant, Per Ragnar] == 1
+[Evan Rachel Wood, Mark Margolis] == 1
+[Gladys George, Peter Lorre] == 1
+[Ellen Crawford, John Billingsley] == 1
+[Irrfan Khan, Suraj Sharma] == 1
+[Jacob Tremblay, Sean Bridgers] == 1
+[Joaquin Phoenix, Robert De Niro] == 1
+[Leonardo DiCaprio, Matthew McConaughey] == 1
+[Ossie Davis, Richard Edson] == 1
+[Coleen Gray, Jay C. Flippen] == 1
+[Adam Driver, Azhy Robertson] == 1
+[Bruno Ganz, Ulrich Matthes] == 1
+[Claudette Colbert, Walter Connolly] == 1
+[Nora Gregor, Paulette Dubost] == 1
+[Bill Murray, Stephen Tobolowsky] == 1
+[Jake Johnson, Peter Ramsey] == 1
+[Diane Keaton, Woody Allen] == 1
+[Rumi Hiiragi, Suzanne Pleshette] == 1
+[Aamir Khan, Darsheel Safary] == 1
+[Domhnall Gleeson, Will Poulter] == 1
+[Mila Kunis, Vincent Cassel] == 1
+[Jimmy Sheirgill, Manoj Bajpayee] == 1
+[Charlie Sheen, Willem Dafoe] == 1
+[Grigoriy Aleksandrov, Vladimir Barskiy] == 1
+[Mary Elizabeth Mastrantonio, Michelle Pfeiffer] == 1
+[Laurence Olivier, Michael Caine] == 1
+[Evan Rachel Wood, Mickey Rourke] == 1
+[Aldo Giuffrè, Eli Wallach] == 1
+[Bertil Guve, Börje Ahlstedt] == 1
+[Daveigh Chase, Rumi Hiiragi] == 1
+[Anthony Quinn, Johnny Sekka] == 1
+[Al Ernest Garcia, Charles Chaplin] == 1
+[J.K. Simmons, Miles Teller] == 1
+[Amrish Puri, Kajol] == 1
+[Jong-ho Kim, Kim Young-Min] == 1
+[Bora Todorovic, Husnija Hasimovic] == 1
+[Pablo Rago, Ricardo Darín] == 1
+[Joseph Melito, Madeleine Stowe] == 1
+[Keiko Yokozawa, Minori Terada] == 1
+[Mel Gibson, Patrick McGoohan] == 1
+[Björk, Peter Stormare] == 1
+[Brad Garrett, Jan Pinkava] == 1
+[André Berley, Eugene Silvain] == 1
+[Marisa Berenson, Ryan O'Neal] == 1
+[Bonnie Bedelia, Reginald VelJohnson] == 1
+[Mandy Patinkin, Robin Wright] == 1
+[Marty Feldman, Peter Boyle] == 1
+[Tom Hanks, Tom Sizemore] == 1
+[Myrna Loy, Nat Pendleton] == 1
+[J.D. Cannon, Paul Newman] == 1
+[Aamir Khan, Saif Ali Khan] == 1
+[Fredric March, Myrna Loy] == 1
+[Bob Balaban, Edward Norton] == 1
+[Michael Berryman, Peter Brocco] == 1
+[Jonny Lee Miller, Kevin McKidd] == 1
+[Elissa Knight, Fred Willard] == 1
+[Madhavan, Pushkar] == 1
+[Thandie Newton, Will Smith] == 1
+[Rosemarie DeWitt, Ryan Gosling] == 1
+[Jane Greer, Kirk Douglas] == 1
+[Leonard Frey, Topol] == 1
+[Akira Terao, Daisuke Ryû] == 1
+[Carole Lombard, Jack Benny] == 1
+[Jake Gyllenhaal, Viola Davis] == 1
+[Mithun Chakraborty, Paresh Rawal] == 1
+[Grace Kelly, John Williams] == 1
+[Demet Akbag, Melisa Sözen] == 1
+[Joan Fontaine, Judith Anderson] == 1
+[David James, Jason Cope] == 1
+[Christian Bale, Ken Watanabe] == 1
+[Jung-woo Ha, Moon So-Ri] == 1
+[Gunnar Björnstrand, Max von Sydow] == 1
+[Mélanie Thierry, Pruitt Taylor Vince] == 1
+[Brie Larson, John Gallagher Jr.] == 1
+[Kátia Lund, Matheus Nachtergaele] == 1
+[Sushant Singh Rajput, Varun Sharma] == 1
+[Jong-ho Kim, Ki-duk Kim] == 1
+[Ignat Daniltsev, Oleg Yankovskiy] == 1
+[Shraddha Srinath, Vijay Sethupathi] == 1
+[Lorraine Gary, Richard Dreyfuss] == 1
+[Sam Wood, Vivien Leigh] == 1
+[Sam Worthington, Teresa Palmer] == 1
+[Richard Farnsworth, Sissy Spacek] == 1
+[Harriet Andersson, Lauren Bacall] == 1
+[Don Rickles, Tom Hanks] == 1
+[Taner Birsel, Yilmaz Erdogan] == 1
+[Rupert Graves, Stephen Rea] == 1
+[Charles Chaplin, Jackie Coogan] == 1
+[Christoph Waltz, Kerry Washington] == 1
+[Aamir Khan, Soha Ali Khan] == 1
+[Börje Ahlstedt, Pernilla Allwin] == 1
+[Cho Yeo-jeong, Kang-ho Song] == 1
+[Johnny Depp, Keira Knightley] == 1
+[Olga Mironova, Vladas Bagdonas] == 1
+[Mervyn LeRoy, Norman Taurog] == 1
+[Dave Johns, Sharon Percy] == 1
+[John Gavin, Vera Miles] == 1
+[Al Pacino, Steven Bauer] == 1
+[Ayberk Pekcan, Haluk Bilginer] == 1
+[R. Lee Ermey, Vincent D'Onofrio] == 1
+[Ben Kingsley, Caroline Goodall] == 1
+[Jack Nicholson, Louise Fletcher] == 1
+[Gary Lockwood, Keir Dullea] == 1
+[Janine Darcey, Robert Manuel] == 1
+[Billy Bob Thornton, John Ritter] == 1
+[Maggie Cheung, Ping Lam Siu] == 1
+[Soia Lira, Vinícius de Oliveira] == 1
+[Kang-ho Song, Lee Sun-kyun] == 1
+[Don Taylor, William Holden] == 1
+[Jane Darwell, John Carradine] == 1
+[Abhay Deol, Hrithik Roshan] == 1
+[Gary Oldman, Jack Lemmon] == 1
+[Byron Barr, Fred MacMurray] == 1
+[Daniel Radcliffe, Michael Gambon] == 1
+[Keith David, Tom Berenger] == 1
+[Brad Pitt, Jason Statham] == 1
+[Hisako Kyôda, Mahito Tsujimura] == 1
+[Dave Bautista, Harrison Ford] == 1
+[Bajram Severdzan, Branka Katic] == 1
+[Al Pacino, John Cazale] == 1
+[Ethan Coen, Steve Buscemi] == 1
+[Anne Dorval, Suzanne Clément] == 1
+[James Cagney, Virginia Mayo] == 1
+[Konstantin Lavronenko, Nataliya Vdovina] == 1
+[Henry Bergman, Paulette Goddard] == 1
+[Cybill Shepherd, Jodie Foster] == 1
+[Enrique Castillo, Jesse Borrego] == 1
+[Aamir Khan, Salman Khan] == 1
+[Ayano Shiraishi, Tsutomu Tatsumi] == 1
+[John Megna, Rosemary Murphy] == 1
+[Aamir Khan, Anushka Sharma] == 1
+[Jack Benny, Robert Stack] == 1
+[Alexandra Maria Lara, Chris Hemsworth] == 1
+[Anthony Hopkins, John Hurt] == 1
+[François Cluzet, Éric Toledano] == 1
+[Chika Sakamoto, Shigesato Itoi] == 1
+[Freida Pinto, Loveleen Tandan] == 1
+[John Gielgud, Roshan Seth] == 1
+[Lorraine Gary, Robert Shaw] == 1
+[Branka Katic, Srdjan 'Zika' Todorovic] == 1
+[Jack Reynor, Maria Doyle Kennedy] == 1
+[Takao Osawa, Yukito Nishii] == 1
+[Faye Dunaway, William Holden] == 1
+[Clark Gable, George Cukor] == 1
+[James Woods, Joe Pesci] == 1
+[Brendan Gleeson, Ciarán Hinds] == 1
+[Alan Mak, Andy Lau] == 1
+[Akio Ôtsuka, Iemasa Kayumi] == 1
+[Iko Uwais, Yayan Ruhian] == 1
+[Bette Davis, Wesley Addy] == 1
+[Dustin Hoffman, Katharine Ross] == 1
+[Ayushmann Khurrana, Neena Gupta] == 1
+[Azhy Robertson, Scarlett Johansson] == 1
+[Graham Norton, Jamie Foxx] == 1
+[Mohit Raina, Vicky Kaushal] == 1
+[Dharmendra, Sanjeev Kumar] == 1
+[Bryan Cranston, Koyu Rankin] == 1
+[Joe Pesci, Sharon Stone] == 1
+[Eleanor David, James Laurenson] == 1
+[Clark Gable, Walter Connolly] == 1
+[Alain Delon, Cathy Rosier] == 1
+[Jesse Corti, Robby Benson] == 1
+[Bob Balaban, Bryan Cranston] == 1
+[Jonah Hill, Matthew McConaughey] == 1
+[Michael Keaton, Rachel McAdams] == 1
+[Fatima Sana Shaikh, Sakshi Tanwar] == 1
+[Jason Flemyng, Jason Statham] == 1
+[Machiko Kyô, Takashi Shimura] == 1
+[Clark Gable, Claudette Colbert] == 1
+[Jae-ho Song, Kang-ho Song] == 1
+[Patrick McGoohan, Sophie Marceau] == 1
+[Colin Firth, Derek Jacobi] == 1
+[Mirjana Jokovic, Slavko Stimac] == 1
+[Carlos Martínez López, Rashida Jones] == 1
+[Frédérique Feder, Jean-Pierre Lorit] == 1
+[Ezra Miller, Logan Lerman] == 1
+[Brad Pitt, Michael Fassbender] == 1
+[John Gielgud, John Hurt] == 1
+[Al Pacino, James Caan] == 1
+[Henry Fonda, John Fiedler] == 1
+[Laura Obiols, Sharon Percy] == 1
+[Tom Cruise, Valeria Golino] == 1
+[Danny Aiello, Ossie Davis] == 1
+[Dave Johns, Hayley Squires] == 1
+[Lazar Ristovski, Mirjana Jokovic] == 1
+[Gunnar Björnstrand, Liv Ullmann] == 1
+[Barbara Stanwyck, Byron Barr] == 1
+[Harrison Ford, Sean Young] == 1
+[Antonella Attili, Philippe Noiret] == 1
+[Bruce Bennett, Tim Holt] == 1
+[Emma Watson, Logan Lerman] == 1
+[Diane Keaton, Marlon Brando] == 1
+[Cho Yeo-jeong, Lee Sun-kyun] == 1
+[John Cassavetes, Ruth Gordon] == 1
+[Chiara Mastroianni, Gena Rowlands] == 1
+[Marlene Dietrich, Spencer Tracy] == 1
+[Linda Cardellini, Viggo Mortensen] == 1
+[Elliot Page, Joseph Gordon-Levitt] == 1
+[Erdem Can, Kyung-jin Lee] == 1
+[Adesh Prasad, Jyoti Malshe] == 1
+[Leonardo DiCaprio, Mark Ruffalo] == 1
+[Moritz Bleibtreu, Til Schweiger] == 1
+[Kyung-jin Lee, Çetin Tekindor] == 1
+[Mary Elizabeth Mastrantonio, Steven Bauer] == 1
+[Alan Rickman, Bonnie Bedelia] == 1
+[Alexander Gould, Lee Unkrich] == 1
+[Ivan Lapikov, Nikolay Sergeev] == 1
+[Al Pacino, Mary Elizabeth Mastrantonio] == 1
+[Gunnar Björnstrand, Ingrid Thulin] == 1
+[Birgitta Pettersson, Gunnel Lindblom] == 1
+[John Cazale, Robert De Niro] == 1
+[Adam Baldwin, Vincent D'Onofrio] == 1
+[Ugur Yücel, Yesim Salkim] == 1
+[Charley Grapewin, Jane Darwell] == 1
+[Robert De Niro, Treat Williams] == 1
+[Linda Cardellini, Sebastian Maniscalco] == 1
+[Amitabh Bachchan, Kirti Kulhari] == 1
+[Danny Aiello, Natalie Portman] == 1
+[Adèle Haenel, Noémie Merlant] == 1
+[Enzo Cannavale, Philippe Noiret] == 1
+[Marlene Dietrich, Richard Widmark] == 1
+[Jaden Smith, Thandie Newton] == 1
+[Shriya Saran, Tabu] == 1
+[Holmes Osborne, Jake Gyllenhaal] == 1
+[Cary Grant, Eva Marie Saint] == 1
+[Phyllis Logan, Timothy Spall] == 1
+[Akira Ishihama, Tetsurô Tanba] == 1
+[Billy Crudup, Yûko Tanaka] == 1
+[Belén Rueda, Lola Dueñas] == 1
+[Harvey Keitel, Michael Madsen] == 1
+[Priyanka Chopra, Ranbir Kapoor] == 1
+[Amy Poehler, Bill Hader] == 1
+[Amole Gupte, Tisca Chopra] == 1
+[Chris Penn, Michael Madsen] == 1
+[Cybill Shepherd, Jeff Bridges] == 1
+[Grace Kelly, James Stewart] == 1
+[Kevin Spacey, Kim Basinger] == 1
+[Yordanos Shiferaw, Zain Al Rafeea] == 1
+[Gladys George, Mary Astor] == 1
+[Edward Arnold, Jean Arthur] == 1
+[Al Pacino, Sully Boyar] == 1
+[John Travolta, Samuel L. Jackson] == 1
+[Keanu Reeves, Laurence Fishburne] == 1
+[Ivan Dobronravov, Nataliya Vdovina] == 1
+[Andrew Garfield, Teresa Palmer] == 1
+[Don Cheadle, Sophie Okonedo] == 1
+[Diego Starosta, Mónica Villa] == 1
+[Frances McDormand, William H. Macy] == 1
+[Lauren Bacall, Nicole Kidman] == 1
+[Laurence Fishburne, Lilly Wachowski] == 1
+[John Rhys-Davies, Karen Allen] == 1
+[Alexandre Rodrigues, Matheus Nachtergaele] == 1
+[Holly Hunter, Samuel L. Jackson] == 1
+[Robin Wright, Tom Hanks] == 1
+[Ansiba, Mohanlal] == 1
+[Byron Barr, Edward G. Robinson] == 1
+[Erich von Stroheim, Pierre Fresnay] == 1
+[Geoffrey Rush, Helena Bonham Carter] == 1
+[Bertil Guve, Kristina Adolphson] == 1
+[Danny Denzongpa, Rana Daggubati] == 1
+[Aamir Khan, Sanya Malhotra] == 1
+[Bahare Seddiqi, Nafise Jafar-Mohammadi] == 1
+[Charlton Heston, Stephen Boyd] == 1
+[Alison Doody, Denholm Elliott] == 1
+[Oliver Reed, Russell Crowe] == 1
+[Emilio Echevarría, Goya Toledo] == 1
+[Colin Firth, Geoffrey Rush] == 1
+[Akira Ishihama, Shima Iwashita] == 1
+[Joel Coen, Josh Brolin] == 1
+[Anne Bancroft, John Hurt] == 1
+[Gerald R. Molen, Valeria Golino] == 1
+[Michael Madsen, Tim Roth] == 1
+[Madeline Kahn, Tatum O'Neal] == 1
+[Masahiro Motoki, Ryôko Hirosue] == 1
+[Kim Hunter, Marlon Brando] == 1
+[Amy Adams, Scarlett Johansson] == 1
+[Tatsuya Nakadai, Tetsurô Tanba] == 1
+[Daniel Craig, Eva Green] == 1
+[Dibyendu Bhattacharya, Kalki Koechlin] == 1
+[Craig Bierko, Renée Zellweger] == 1
+[Aamir Khan, Boman Irani] == 1
+[Jared Leto, Matthew McConaughey] == 1
+[Kishori Ballal, Smit Sheth] == 1
+[Clint Eastwood, Wolfgang Lukschy] == 1
+[Barbara Stanwyck, Edward G. Robinson] == 1
+[Hubertus Bengsch, Klaus Wennemann] == 1
+[Liev Schreiber, Michael Keaton] == 1
+[Fengyi Zhang, Gong Li] == 1
+[Mohammad Amir Naji, Nafise Jafar-Mohammadi] == 1
+[Roy Dotrice, Tom Hulce] == 1
+[Bárbara Lennie, Jose Coronado] == 1
+[Lee Van Cleef, Mara Krupp] == 1
+[Frédérique Feder, Jean-Louis Trintignant] == 1
+[Mark Ruffalo, Rachel McAdams] == 1
+[Charlize Theron, Nicholas Hoult] == 1
+[Don Gordon, Victor Jory] == 1
+[Hee Jae, Seung-Yun Lee] == 1
+[James Cagney, Margaret Wycherly] == 1
+[Quentin Tarantino, Robert Rodriguez] == 1
+[Joaquin Phoenix, Zazie Beetz] == 1
+[John Wayne, Vera Miles] == 1
+[Oka Antara, Yayan Ruhian] == 1
+[Dennis Price, Valerie Hobson] == 1
+[David James, Sharlto Copley] == 1
+[Aamir Khan, Mona Singh] == 1
+[Tim Robbins, William Sadler] == 1
+[Diane Keaton, James Caan] == 1
+[Ellen Widmann, Inge Landgut] == 1
+[Ellen Burstyn, Linda Blair] == 1
+[Al Pacino, Marlon Brando] == 1
+[Folco Lulli, Peter van Eyck] == 1
+[Chris Pine, Simon Pegg] == 1
+[Joel Coen, Tommy Lee Jones] == 1
+[Florijan Ajdini, Srdjan 'Zika' Todorovic] == 1
+[Gaspard Manesse, Raphael Fejtö] == 1
+[Mark Margolis, Mickey Rourke] == 1
+[Anthony Quinn, Jack Hawkins] == 1
+[Diane Keaton, Tony Roberts] == 1
+[Gregory Peck, Hartley Power] == 1
+[Rajat Kapoor, Tabu] == 1
+[Dana Andrews, Myrna Loy] == 1
+[Dwight Yoakam, John Ritter] == 1
+[Eva Marie Saint, Jessie Royce Landis] == 1
+[Robert Strauss, William Holden] == 1
+[Armie Hammer, Timothée Chalamet] == 1
+[Martina Gedeck, Sebastian Koch] == 1
+[Brie Larson, Sean Bridgers] == 1
+[Al Ernest Garcia, Merna Kennedy] == 1
+[Lil Dagover, Werner Krauss] == 1
+[Dwight Yoakam, J.T. Walsh] == 1
+[Danny Lloyd, Shelley Duvall] == 1
+[Leila Hatami, Payman Maadi] == 1
+[Alisa Freyndlikh, Nikolay Grinko] == 1
+[Anupam Kher, Naseeruddin Shah] == 1
+[Amitabh Bachchan, Rani Mukerji] == 1
+[Thierry van Werveke, Til Schweiger] == 1
+[Audrey Hepburn, Gregory Peck] == 1
+[Anthony Gonzalez, Gael García Bernal] == 1
+[Anthony Perkins, Janet Leigh] == 1
+[Emily Mortimer, Mark Ruffalo] == 1
+[Charlie Sheen, Tom Berenger] == 1
+[Frank Vincent, Robert De Niro] == 1
+[Paul Newman, Piper Laurie] == 1
+[Jeremy Renner, Robert Downey Jr.] == 1
+[Christine Hargreaves, Eleanor David] == 1
+[Jake Gyllenhaal, Mary McDonnell] == 1
+[Jay C. Flippen, Sterling Hayden] == 1
+[Boluwatife Treasure Bankole, Zain Al Rafeea] == 1
+[Burl Ives, Elizabeth Taylor] == 1
+[Nathalie Boltt, Sharlto Copley] == 1
+[Folco Lulli, Yves Montand] == 1
+[Lillian Gish, Robert Mitchum] == 1
+[Jeremy Irons, Matthew Broderick] == 1
+[Fikret Kuskan, Çetin Tekindor] == 1
+[Paul Giamatti, Russell Crowe] == 1
+[Clive Owen, Quentin Tarantino] == 1
+[Daniel Day-Lewis, Pete Postlethwaite] == 1
+[Arthur O'Connell, Ben Gazzara] == 1
+[Herbert Grönemeyer, Hubertus Bengsch] == 1
+[Dev Patel, Rooney Mara] == 1
+[Fredric March, Spencer Tracy] == 1
+[Rachel Shelley, Raghuvir Yadav] == 1
+[Ahney Her, Christopher Carley] == 1
+[Matthew Modine, Vincent D'Onofrio] == 1
+[Anamaria Marinca, Vlad Ivanov] == 1
+[Chris Evans, Mark Ruffalo] == 1
+[Kim Min-hee, Moon So-Ri] == 1
+[Aamir Khan, Karisma Kapoor] == 1
+[Prabhas, Tamannaah Bhatia] == 1
+[Ethan Hawke, Vernon Dobtcheff] == 1
+[Erwin Connelly, Kathryn McGuire] == 1
+[Ignat Daniltsev, Margarita Terekhova] == 1
+[Claire Rushbrook, Phyllis Logan] == 1
+[Deniz Baysal, Nisa Sofiya Aksongur] == 1
+[Ben Johnson, Jeff Bridges] == 1
+[George C. Scott, Peter Sellers] == 1
+[Claudia Cardinale, Klaus Kinski] == 1
+[Haru Kuroki, Yukito Nishii] == 1
+[Natalie Portman, Winona Ryder] == 1
+[Max von Sydow, Nils Poppe] == 1
+[Fred MacMurray, Shirley MacLaine] == 1
+[Haruo Tanaka, Shin'ichi Himori] == 1
+[Claire Maurier, Guy Decomble] == 1
+[Cem Yilmaz, Özge Özberk] == 1
+[Mia Farrow, Sidney Blackmer] == 1
+[Anthony Quinn, Richard Basehart] == 1
+[Dominique McElligott, Rosie Shaw] == 1
+[Jason Robards, Julianne Moore] == 1
+[Bérénice Bejo, James Cromwell] == 1
+[Charlize Theron, Tom Hardy] == 1
+[Lola Dueñas, Mabel Rivera] == 1
+[Charles Chaplin, Merna Kennedy] == 1
+[Marcel Dalio, Nora Gregor] == 1
+[Joel Edgerton, Nick Nolte] == 1
+[Don Gordon, Dustin Hoffman] == 1
+[Carrie-Anne Moss, Mark Boone Junior] == 1
+[Bruce Willis, Toni Collette] == 1
+[Billy Crudup, Ewan McGregor] == 1
+[Lauren Bacall, Paul Bettany] == 1
+[Julie Christie, Omar Sharif] == 1
+[Chishû Ryû, Sô Yamamura] == 1
+[Lewis Black, Ronnie Del Carmen] == 1
+[Clint Eastwood, Richard Harris] == 1
+[Indraneil Sengupta, Vidya Balan] == 1
+[Albert Brooks, Lee Unkrich] == 1
+[Haley Joel Osment, Olivia Williams] == 1
+[James Gleason, Robert Mitchum] == 1
+[Dick York, Fredric March] == 1
+[Ege Tanman, Fikret Kuskan] == 1
+[Bob Balaban, Koyu Rankin] == 1
+[George Raft, Tony Curtis] == 1
+[Jack Nicholson, Michael Berryman] == 1
+[Craig T. Nelson, Holly Hunter] == 1
+[Paresh Rawal, Vicky Kaushal] == 1
+[Dean Stockwell, Nastassja Kinski] == 1
+[James Cromwell, John Goodman] == 1
+[Bill Paxton, Riz Ahmed] == 1
+[Gerard Butler, Jay Baruchel] == 1
+[Boyd Holbrook, Hugh Jackman] == 1
+[Manjot Singh, Rajat Barmecha] == 1
+[Dafne Keen, Hugh Jackman] == 1
+[Coleen Gray, Sterling Hayden] == 1
+[Davor Dujmovic, Husnija Hasimovic] == 1
+[Aidan Gillen, Jack Reynor] == 1
+[Ram Kapoor, Ronit Roy] == 1
+[Filipp Yankovskiy, Oleg Yankovskiy] == 1
+[André S. Labarthe, Guylaine Schlumberger] == 1
+[Annika Wedderkopp, Mads Mikkelsen] == 1
+[Haruo Tanaka, Takashi Shimura] == 1
+[Chris Sanders, Gerard Butler] == 1
+[Chazz Palminteri, Kevin Spacey] == 1
+[Gene Hackman, Richard Harris] == 1
+[Christopher Mintz-Plasse, Jay Baruchel] == 1
+[Donnie Yen, Ka Tung Lam] == 1
+[Dustin Hoffman, Gerald R. Molen] == 1
+[George Sanders, Judith Anderson] == 1
+[Ellen Burstyn, Jennifer Connelly] == 1
+[Ryôko Hirosue, Tsutomu Yamazaki] == 1
+[Bryce Dallas Howard, Emma Stone] == 1
+[Justine Waddell, Lee Pace] == 1
+[Charles Vanel, Paul Meurisse] == 1
+[Frank Vincent, Joe Pesci] == 1
+[Sophie Okonedo, Xolani Mali] == 1
+[Erich von Stroheim, Jean Gabin] == 1
+[Joseph Calleia, Orson Welles] == 1
+[J.D. Cannon, Strother Martin] == 1
+[Holly Hunter, Jason Lee] == 1
+[Elizabeth Taylor, Sandy Dennis] == 1
+[Joseph Gordon-Levitt, Ken Watanabe] == 1
+[Gorô Naya, Sumi Shimamoto] == 1
+[Jaya Bachchan, Shah Rukh Khan] == 1
+[Michael Palin, Terry Gilliam] == 1
+[Lembit Ulfsak, Misha Meskhi] == 1
+[Hrithik Roshan, Katrina Kaif] == 1
+[Kazuko Yoshiyuki, Ryôko Hirosue] == 1
+[Katharine Ross, Paul Newman] == 1
+[Caleb Landry Jones, Sam Rockwell] == 1
+[Setsuko Hara, Sô Yamamura] == 1
+[Sahil Vaid, Saswata Chatterjee] == 1
+[Paul Newman, Robert Shaw] == 1
+[In-mun Kim, Jun Ji-Hyun] == 1
+[Chika Sakamoto, Hitoshi Takagi] == 1
+[Yilmaz Erdogan, Ömer Faruk Sorak] == 1
+[Edward Burns, Tom Hanks] == 1
+[Ansiba, Asha Sharath] == 1
+[Marília Pêra, Soia Lira] == 1
+[Izabela Vidovic, Owen Wilson] == 1
+[Chris Evans, Jamie Lee Curtis] == 1
+[Burt Young, Talia Shire] == 1
+[Ka Tung Lam, Siu-Wong Fan] == 1
+[Jack Warden, Melvyn Douglas] == 1
+[Kim Hunter, Vivien Leigh] == 1
+[Robert Shaw, Roy Scheider] == 1
+[Lee J. Cobb, Martin Balsam] == 1
+[Maria Falconetti, Maurice Schutz] == 1
+[Henry Fonda, Jane Darwell] == 1
+[Cuifen Cao, Jingwu Ma] == 1
+[Leonardo DiCaprio, Will Poulter] == 1
+[Celia Johnson, Stanley Holloway] == 1
+[Erdem Can, Ilker Kizmaz] == 1
+[Rajat Barmecha, Ram Kapoor] == 1
+[Burt Lancaster, Marlene Dietrich] == 1
+[Gong Li, Leslie Cheung] == 1
+[Minoru Chiaki, Takashi Shimura] == 1
+[Ben Kingsley, Rohini Hattangadi] == 1
+[Paresh Rawal, Suriya] == 1
+[Aleksandr Kaydanovskiy, Anatoliy Solonitsyn] == 1
+[Sebastian Maniscalco, Viggo Mortensen] == 1
+[Asha Sharath, Meena] == 1
+[Emmanuelle Seigner, Mathieu Amalric] == 1
+[Ariadna Gil, Maribel Verdú] == 1
+[Marília Pêra, Vinícius de Oliveira] == 1
+[John Cleese, Terry Gilliam] == 1
+[Akshay Kumar, Kumud Mishra] == 1
+[Charlton Heston, Janet Leigh] == 1
+[Ben Affleck, Stellan Skarsgård] == 1
+[Harvey Keitel, Tim Roth] == 1
+[Hugo Weaving, Stephen Rea] == 1
+[Jennifer Connelly, Russell Crowe] == 1
+[Harrison Ford, Sean Connery] == 1
+[Robert De Niro, Robert Duvall] == 1
+[John Musker, Robin Williams] == 1
+[Emma Stone, Octavia Spencer] == 1
+[Paprika Steen, Thomas Bo Larsen] == 1
+[James Woods, Sharon Stone] == 1
+[Aras Bulut Iynemli, Deniz Baysal] == 1
+[Patrick Magee, Warren Clarke] == 1
+[Ellen Crawford, Tony Todd] == 1
+[Henry Bergman, Mack Swain] == 1
+[Olivia Williams, Toni Collette] == 1
+[Harrison Ford, Ryan Gosling] == 1
+[Toshirô Mifune, Yûnosuke Itô] == 1
+[Clint Eastwood, Marianne Koch] == 1
+[Samantha Isler, Viggo Mortensen] == 1
+[Melissa Leo, Viola Davis] == 1
+[Michelle Pfeiffer, Steven Bauer] == 1
+[Daisy Ridley, John Boyega] == 1
+[Jason Schwartzman, Meryl Streep] == 1
+[Charles Bronson, Claudia Cardinale] == 1
+[Maxim Gaudette, Mélissa Désormeaux-Poulin] == 1
+[Dev Patel, Loveleen Tandan] == 1
+[Audrey Hepburn, Hartley Power] == 1
+[Leila Hatami, Sareh Bayat] == 1
+[Albert Rémy, Jean-Pierre Léaud] == 1
+[Caroline Goodall, Ralph Fiennes] == 1
+[Elissa Knight, Jeff Garlin] == 1
+[Elizabeth Berridge, Roy Dotrice] == 1
+[Sener Sen, Yesim Salkim] == 1
+[Maurice Evans, Roddy McDowall] == 1
+[Filipp Yankovskiy, Ignat Daniltsev] == 1
+[Nawazuddin Siddiqui, Parambrata Chattopadhyay] == 1
+[Benjamin Bratt, Gael García Bernal] == 1
+[Amy Adams, Joaquin Phoenix] == 1
+[Jacob Tremblay, Julia Roberts] == 1
+[Marcello Mastroianni, Sandra Milo] == 1
+[Maureen O'Sullivan, Myrna Loy] == 1
+[Bryan Cranston, Edward Norton] == 1
+[Björk, David Morse] == 1
+[Emma Watson, Michael Gambon] == 1
+[Morgan Freeman, Richard Harris] == 1
+[Aamir Bashir, Naseeruddin Shah] == 1
+[Mahito Tsujimura, Sumi Shimamoto] == 1
+[Akshay Kumar, Manoj Bajpayee] == 1
+[Mohit Raina, Yami Gautam] == 1
+[Gerry Robert Byrne, Jim Carrey] == 1
+[Börje Ahlstedt, Kristina Adolphson] == 1
+[Goya Toledo, Álvaro Guerrero] == 1
+[Jack Nicholson, Leonardo DiCaprio] == 1
+[Bertil Guve, Pernilla Allwin] == 1
+[Sebastian Koch, Ulrich Mühe] == 1
+[Dara Singh, Kareena Kapoor] == 1
+[Aaron Eckhart, Heath Ledger] == 1
+[Birgitta Valberg, Max von Sydow] == 1
+[Akshaye Khanna, Saif Ali Khan] == 1
+[Adil Hussain, Irrfan Khan] == 1
+[George C. Scott, Sterling Hayden] == 1
+[Bárbara Lennie, Mario Casas] == 1
+[Daniel Day-Lewis, Paul Dano] == 1
+[Anthony Quinn, Peter O'Toole] == 1
+[Irrfan Khan, Sohum Shah] == 1
+[Chris Pratt, Zoe Saldana] == 1
+[Antonella Attili, Enzo Cannavale] == 1
+[Kari Sylwan, Liv Ullmann] == 1
+[Gael García Bernal, Goya Toledo] == 1
+[Jennifer Connelly, Kagiso Kuypers] == 1
+[Jared Leto, Steve Zahn] == 1
+[Aoi Yûki, Ryô Narita] == 1
+[Ethan Coen, John Goodman] == 1
+[Nawazuddin Siddiqui, Richa Chadha] == 1
+[Jesse Corti, Paige O'Hara] == 1
+[Charlton Heston, Kim Hunter] == 1
+[Dennis Farina, Jason Statham] == 1
+[Michael Biehn, Paul Reiser] == 1
+[Kyôko Kagawa, Yutaka Sada] == 1
+[Kareena Kapoor, Salman Khan] == 1
+[Carole Lombard, Felix Bressart] == 1
+[Emmanuelle Riva, Jean-Louis Trintignant] == 1
+[Keenan Wynn, Peter Sellers] == 1
+[Javier Bardem, Joel Coen] == 1
+[Madhavan, Sharman Joshi] == 1
+[Jennifer Aniston, Vin Diesel] == 1
+[Cathy Rosier, Nathalie Delon] == 1
+[Chris Hemsworth, Tom Hiddleston] == 1
+[Akshay Kumar, Nimrat Kaur] == 1
+[Henry Bergman, Tiny Sandford] == 1
+[Cho Jin-woong, Moon So-Ri] == 1
+[George Sanders, Laurence Olivier] == 1
+[Björk, Catherine Deneuve] == 1
+[Michael Clarke Duncan, Tom Hanks] == 1
+[Harriet Andersson, Paul Bettany] == 1
+[Eun-ju Lee, Hyeong-jin Kong] == 1
+[Kirk Wise, Robby Benson] == 1
+[Otto Sander, Solveig Dommartin] == 1
+[James Woods, Treat Williams] == 1
+[Ed Harris, Jim Carrey] == 1
+[Dustin Hoffman, William Daniels] == 1
+[Keiko Tsushima, Toshirô Mifune] == 1
+[Shahid Kapoor, Tarun Arora] == 1
+[Enzo Staiola, Lamberto Maggiorani] == 1
+[Lucy Boynton, Rami Malek] == 1
+[Charles Durning, Paul Newman] == 1
+[Irandhir Santos, Wagner Moura] == 1
+[Jessica Chastain, Matt Damon] == 1
+[Elmo Nüganen, Misha Meskhi] == 1
+[Anton Walbrook, Moira Shearer] == 1
+[Frank Lovejoy, Humphrey Bogart] == 1
+[Katharine Ross, Robert Redford] == 1
+[Aoi Miyazaki, Takao Osawa] == 1
+[Gorô Naya, Mahito Tsujimura] == 1
+[Hardy Krüger, Patrick Magee] == 1
+[Lubna Azabal, Maxim Gaudette] == 1
+[Leonardo DiCaprio, Martin Sheen] == 1
+[Colin Firth, Daniel Mays] == 1
+[Jessica Chastain, Kristen Wiig] == 1
+[Bryce Dallas Howard, Viola Davis] == 1
+[Masaaki Ôkura, Shinpachi Tsuji] == 1
+[Ariane Labed, Julie Delpy] == 1
+[Anushka Shetty, Tamannaah Bhatia] == 1
+[Kagiso Kuypers, Leonardo DiCaprio] == 1
+[Joan Crawford, Wesley Addy] == 1
+[Keanu Reeves, Lilly Wachowski] == 1
+[Janet Leigh, Vera Miles] == 1
+[Carl Miller, Jackie Coogan] == 1
+[Christian Bale, Liam Neeson] == 1
+[Sermin Hürmeriç, Yesim Salkim] == 1
+[Alexandre Tharaud, Emmanuelle Riva] == 1
+[Ellen Burstyn, Max von Sydow] == 1
+[Harriet Andersson, Kari Sylwan] == 1
+[Jun Ji-Hyun, Tae-Hyun Cha] == 1
+[Jonah Hill, Leonardo DiCaprio] == 1
+[James Earl Jones, Rob Minkoff] == 1
+[Emmanuelle Riva, Isabelle Huppert] == 1
+[Anthony Gonzalez, Benjamin Bratt] == 1
+[Aldo Silvani, Giulietta Masina] == 1
+[Daveigh Chase, Suzanne Pleshette] == 1
+[Konstantin Lavronenko, Vladimir Garin] == 1
+[Jason Lee, Samuel L. Jackson] == 1
+[Beverly D'Angelo, Edward Norton] == 1
+[Richard Dreyfuss, Robert Shaw] == 1
+[Matthew Modine, R. Lee Ermey] == 1
+[Danny Lloyd, Scatman Crothers] == 1
+[Ayberk Pekcan, Demet Akbag] == 1
+[Bette Davis, Celeste Holm] == 1
+[Sahil Vaid, Sushant Singh Rajput] == 1
+[Joan Crawford, Victor Buono] == 1
+[Kumud Mishra, Prakash Belawadi] == 1
+[Kirk Wise, Paige O'Hara] == 1
+[Bill Hader, Ronnie Del Carmen] == 1
+[Rima Te Wiata, Sam Neill] == 1
+[Julie Delpy, Seamus Davey-Fitzpatrick] == 1
+[Karen Allen, Paul Freeman] == 1
+[Akihiro Miwa, Tatsuya Gashûin] == 1
+[Ed Skrein, Ryan Reynolds] == 1
+[Elena Altieri, Enzo Staiola] == 1
+[Carla Quevedo, Ricardo Darín] == 1
+[Megumi Ogata, Yûko Miyamura] == 1
+[Cem Yilmaz, Safak Sezer] == 1
+[Aleksandr Antonov, Ivan Bobrov] == 1
+[Emilia Fox, Frank Finlay] == 1
+[Don Rickles, Jim Varney] == 1
+[Joan Allen, Richard Gere] == 1
+[Jeff Bridges, Julianne Moore] == 1
+[Brad Pitt, Kevin Spacey] == 1
+[Husnija Hasimovic, Ljubica Adzovic] == 1
+[Frank Morgan, Margaret Sullavan] == 1
+[Alison Crosbie, Pete Postlethwaite] == 1
+[John Goodman, Lee Unkrich] == 1
+[Anne Le Ny, Éric Toledano] == 1
+[Bruno Ganz, Juliane Köhler] == 1
+[Ben Kingsley, Leonardo DiCaprio] == 1
+[Chris Pine, Leonard Nimoy] == 1
+[Albert Brooks, Robert De Niro] == 1
+[Lily Franky, Sakura Andô] == 1
+[Lamberto Maggiorani, Lianella Carell] == 1
+[Grace Kelly, Robert Cummings] == 1
+[Brad Pitt, Mélanie Laurent] == 1
+[Cem Yilmaz, Ozan Güven] == 1
+[Holmes Osborne, Mary McDonnell] == 1
+[Bob Gunton, Morgan Freeman] == 1
+[Anushka Shetty, Rana Daggubati] == 1
+[Alison Crosbie, Daniel Day-Lewis] == 1
+[Alfred Abel, Brigitte Helm] == 1
+[Hugh Jackman, Melissa Leo] == 1
+[Rosamund Pike, Tyler Perry] == 1
+[Cho Jin-woong, Kim Min-hee] == 1
+[Akio Ôtsuka, Kôichi Yamadera] == 1
+[Ben Gazzara, James Stewart] == 1
+[Barbara Bel Geddes, James Stewart] == 1
+[Graham Chapman, Terry Jones] == 1
+[Dean Martin, John Wayne] == 1
+[Harry Dean Stanton, Nastassja Kinski] == 1
+[Choi Woo-sik, Kang-ho Song] == 1
+[Graham Norton, Kemp Powers] == 1
+[Joan Cusack, Tom Hanks] == 1
+[John Boyega, Oscar Isaac] == 1
+[Mahie Gill, Rajesh Abhay] == 1
+[Bill Paxton, Brendan Gleeson] == 1
+[Chishû Ryû, Setsuko Hara] == 1
+[Aamir Khan, Preity Zinta] == 1
+[Kirk Douglas, Robert Arthur] == 1
+[Rooney Mara, Sunny Pawar] == 1
+[Bruce Willis, Haley Joel Osment] == 1
+[Neena Gupta, Sanya Malhotra] == 1
+[Neil Patrick Harris, Rosamund Pike] == 1
+[Shah Rukh Khan, Sheetal Menon] == 1
+[Belén Rueda, Javier Bardem] == 1
+[Jim Carrey, Laura Linney] == 1
+[Stanley Holloway, Trevor Howard] == 1
+[Celeste Holm, George Sanders] == 1
+[Junko Iwao, Rica Matsumoto] == 1
+[James Caan, James Marsden] == 1
+[Chris Evans, Jeremy Renner] == 1
+[Johnny Depp, Orlando Bloom] == 1
+[Ajay Devgn, Tabu] == 1
+[Aurore Clément, Nastassja Kinski] == 1
+[Elijah Wood, Sean Bean] == 1
+[Ozan Güven, Safak Sezer] == 1
+[Danny Aiello, Jean Reno] == 1
+[Myrna Loy, William Powell] == 1
+[Gary Sinise, Robin Wright] == 1
+[Ray Liotta, Robert De Niro] == 1
+[Christopher Plummer, Russell Crowe] == 1
+[Eijirô Tôno, Toshirô Mifune] == 1
+[Brie Larson, Jacob Tremblay] == 1
+[Ed Harris, Russell Crowe] == 1
+[Arshad Warsi, Boman Irani] == 1
+[Charles Vanel, Peter van Eyck] == 1
+[Kevin Spacey, Stephen Baldwin] == 1
+[Anna Karina, Guylaine Schlumberger] == 1
+[Arnold Lucy, Louis Wolheim] == 1
+[Chris Hemsworth, Robert Downey Jr.] == 1
+[Susan Harrison, Tony Curtis] == 1
+[Kazuya Tsurumaki, Megumi Ogata] == 1
+[Christopher Heyerdahl, Julianne Nicholson] == 1
+[Catherine O'Hara, Chris Sarandon] == 1
+[Dave Bautista, Ryan Gosling] == 1
+[Amy Adams, Forest Whitaker] == 1
+[Richard Widmark, Spencer Tracy] == 1
+[Geoffrey Rush, Johnny Depp] == 1
+[Matthew McConaughey, Steve Zahn] == 1
+[Carla Quevedo, Pablo Rago] == 1
+[Aamir Khan, Rachel Shelley] == 1
+[Hardy Krüger, Marisa Berenson] == 1
+[Billy Bob Thornton, J.T. Walsh] == 1
+[Clifton Webb, Gene Tierney] == 1
+[Bonnie Bedelia, Bruce Willis] == 1
+[Edgar Ramírez, Julia Stiles] == 1
+[Aoi Yûki, Ryûnosuke Kamiki] == 1
+[Aldo Silvani, Anthony Quinn] == 1
+[Anushka Shetty, Prabhas] == 1
+[Benedict Cumberbatch, Matthew Goode] == 1
+[Bill Murray, Chris Elliott] == 1
+[Martina Gedeck, Ulrich Tukur] == 1
+[Molly Picon, Topol] == 1
+[Andrew Kevin Walker, Morgan Freeman] == 1
+[Sareh Bayat, Shahab Hosseini] == 1
+[George Cukor, Richard Thorpe] == 1
+[Al Pacino, Robert Duvall] == 1
+[Bruce Willis, Uma Thurman] == 1
+[Joe Pesci, Lorraine Bracco] == 1
+[Joan Allen, Julia Stiles] == 1
+[Ken Watanabe, Ryô Kase] == 1
+[Toshirô Mifune, Yôko Tsukasa] == 1
+[Amjad Khan, Dharmendra] == 1
+[Haley Joel Osment, Toni Collette] == 1
+[Cate Blanchett, Mark Ruffalo] == 1
+[Takuya Kimura, Tatsuya Gashûin] == 1
+[Amir Farrokh Hashemian, Nafise Jafar-Mohammadi] == 1
+[Natalya Bondarchuk, Vladislav Dvorzhetskiy] == 1
+[George Kennedy, J.D. Cannon] == 1
+[Mami Koyama, Nozomu Sasaki] == 1
+[Aleksey Kravchenko, Vladas Bagdonas] == 1
+[Megumi Hayashibara, Megumi Ogata] == 1
+[Ben Kingsley, John Gielgud] == 1
+[Jüri Järvet, Vladislav Dvorzhetskiy] == 1
+[Albert Brooks, Alexander Gould] == 1
+[Alexander Gould, Ellen DeGeneres] == 1
+[Baris Bagci, Ilker Kizmaz] == 1
+[Christian Bale, Matt Damon] == 1
+[Dexter Fletcher, Jason Statham] == 1
+[Ana Wagener, Bárbara Lennie] == 1
+[Keith David, Willem Dafoe] == 1
+[Charles Durning, Robert Shaw] == 1
+[Gracy Singh, Sunil Dutt] == 1
+[Altan Erkekli, Demet Akbag] == 1
+[Karl Malden, Lee J. Cobb] == 1
+[Haru Kuroki, Takao Osawa] == 1
+[Adrian Molina, Benjamin Bratt] == 1
+[Aamir Khan, Siddharth] == 1
+[Brad Pitt, Diane Kruger] == 1
+[Gael García Bernal, Álvaro Guerrero] == 1
+[Jin-mo Joo, Seung-Yun Lee] == 1
+[Faye Dunaway, Robert Duvall] == 1
+[Adèle Haenel, Valeria Golino] == 1
+[Humphrey Bogart, Paul Henreid] == 1
+[Saif Ali Khan, Shah Rukh Khan] == 1
+[Anne Baxter, George Sanders] == 1
+[Frances McDormand, Steve Buscemi] == 1
+[Chieko Higashiyama, Chishû Ryû] == 1
+[Clark Gable, Vivien Leigh] == 1
+[Kemp Powers, Tina Fey] == 1
+[Juliane Köhler, Ulrich Matthes] == 1
+[Chieko Higashiyama, Setsuko Hara] == 1
+[Enzo Staiola, Lianella Carell] == 1
+[Craig T. Nelson, Samuel L. Jackson] == 1
+[Evgeniy Zharikov, Nikolay Burlyaev] == 1
+[Patrick Huard, Suzanne Clément] == 1
+[Gary Sinise, Tom Hanks] == 1
+[Adèle Haenel, Luàna Bajrami] == 1
+[Alain Delon, François Périer] == 1
+[Nikolay Burlyaev, Valentin Zubkov] == 1
+[Jack Hawkins, William Holden] == 1
+[Ferdia Walsh-Peelo, Jack Reynor] == 1
+[Brigitte Lin, Tony Chiu-Wai Leung] == 1
+[Gary Oldman, Tom Hardy] == 1
+[Martina Gedeck, Ulrich Mühe] == 1
+[Tatsuya Nakadai, Tsutomu Yamazaki] == 1
+[George Cukor, Norman Taurog] == 1
+[Charlton Heston, Maurice Evans] == 1
+[Paprika Steen, Ulrich Thomsen] == 1
+[Kazuko Yoshiyuki, Masahiro Motoki] == 1
+[Sigourney Weaver, Tom Skerritt] == 1
+[Prateik, Varun Sharma] == 1
+[Karisma Kapoor, Raveena Tandon] == 1
+[Fredric March, Teresa Wright] == 1
+[Dennis Price, Joan Greenwood] == 1
+[Minoru Chiaki, Misa Uehara] == 1
+[André Berley, Maurice Schutz] == 1
+[Laura Vasiliu, Vlad Ivanov] == 1
+[Coleen Gray, Vince Edwards] == 1
+[Conrad Veidt, Werner Krauss] == 1
+[Christian Bale, Heath Ledger] == 1
+[Carrie-Anne Moss, Lilly Wachowski] == 1
+[Jack Lemmon, Shirley MacLaine] == 1
+[Al Pacino, Jon Voight] == 1
+[Jake Gyllenhaal, Jena Malone] == 1
+[Raveena Tandon, Salman Khan] == 1
+[Manjot Singh, Ram Kapoor] == 1
+[Ethan Coen, William H. Macy] == 1
+[Chris Sarandon, Danny Elfman] == 1
+[Robert Duvall, William Holden] == 1
+[Edward Asner, Jordan Nagai] == 1
+[Ethan Hawke, Josh Charles] == 1
+[Jae-ho Song, Kim Sang-kyung] == 1
+[George Sanders, Joan Fontaine] == 1
+[Gregory Peck, Rosemary Murphy] == 1
+[Vijay Raaz, Vijay Varma] == 1
+[Dana Andrews, Fredric March] == 1
+[Keiju Kobayashi, Toshirô Mifune] == 1
+[Joaquin Phoenix, Russell Crowe] == 1
+[Ginnifer Goodwin, Rich Moore] == 1
+[Angus Macfadyen, Sophie Marceau] == 1
+[Annette Bening, Kevin Spacey] == 1
+[John Hurt, Tom Skerritt] == 1
+[Sahil Vaid, Sanjana Sanghi] == 1
+[Antoine Olivier Pilon, Patrick Huard] == 1
+[Kevin Spacey, Rosie Shaw] == 1
+[Gayatri Joshi, Kishori Ballal] == 1
+[Azhy Robertson, Julia Greer] == 1
+[Gaspard Manesse, Stanislas Carré de Malberg] == 1
+[Jack Lemmon, Walter Matthau] == 1
+[Fatima Sana Shaikh, Sanya Malhotra] == 1
+[David Rawle, Fionnula Flanagan] == 1
+[Ahmet Mümtaz Taylan, Taner Birsel] == 1
+[Joaquin Phoenix, Rooney Mara] == 1
+[Nawazuddin Siddiqui, Tigmanshu Dhulia] == 1
+[Edward Burns, Matt Damon] == 1
+[Kalki Koechlin, Mahie Gill] == 1
+[Indraneil Sengupta, Nawazuddin Siddiqui] == 1
+[Srinidhi Shetty, Yash] == 1
+[David Lee Smith, John Billingsley] == 1
+[Ethan Coen, Jeff Bridges] == 1
+[Alida Valli, Joseph Cotten] == 1
+[Kim Young-Min, Yeong-su Oh] == 1
+[Michael Biehn, Paul Winfield] == 1
+[Leandro Firmino, Matheus Nachtergaele] == 1
+[James Stewart, Kim Novak] == 1
+[Simon Yam, Siu-Wong Fan] == 1
+[Ayushmann Khurrana, Tabu] == 1
+[Albert Brooks, Ellen DeGeneres] == 1
+[Logan Lerman, Paul Rudd] == 1
+[Jennifer Garner, Steve Zahn] == 1
+[Linda Hamilton, Michael Biehn] == 1
+[Bill Nunn, Mélanie Thierry] == 1
+[Samia Kerbash, Yacef Saadi] == 1
+[Kumud Mishra, Nimrat Kaur] == 1
+[Frank Morgan, James Stewart] == 1
+[Nataliya Vdovina, Vladimir Garin] == 1
+[Caroline Goodall, Liam Neeson] == 1
+[Farley Granger, John Dall] == 1
+[Giustino Durano, Roberto Benigni] == 1
+[Paresh Rawal, Yami Gautam] == 1
+[Anamaria Marinca, Laura Vasiliu] == 1
+[Eli Wallach, Lee Van Cleef] == 1
+[Joaquin Phoenix, Sophie Okonedo] == 1
+[Don Taylor, Robert Strauss] == 1
+[Eric Bana, Philip Seymour Hoffman] == 1
+[Tom Hardy, Will Poulter] == 1
+[John Huston, Perry Lopez] == 1
+[Jeff Bridges, Timothy Bottoms] == 1
+[Jake Gyllenhaal, Riz Ahmed] == 1
+[Freida Pinto, Saurabh Shukla] == 1
+[Luke Bracey, Teresa Palmer] == 1
+[Lew Ayres, Louis Wolheim] == 1
+[Grigoriy Aleksandrov, Ivan Bobrov] == 1
+[Anthony Perkins, Vera Miles] == 1
+[Fred Willard, Jeff Garlin] == 1
+[Fred MacMurray, Jack Lemmon] == 1
+[Charles Vanel, Folco Lulli] == 1
+[Carrie Henn, Paul Reiser] == 1
+[Morena Baccarin, Ryan Reynolds] == 1
+[John Ratzenberger, Jordan Nagai] == 1
+[Edmond O'Brien, Virginia Mayo] == 1
+[Cary Grant, James Mason] == 1
+[Forest Whitaker, Michael Stuhlbarg] == 1
+[Jason Schwartzman, Rashida Jones] == 1
+[Erich von Stroheim, Gloria Swanson] == 1
+[Abhay Deol, Farhan Akhtar] == 1
+[Ed Harris, Noah Emmerich] == 1
+[Javier Bardem, Tommy Lee Jones] == 1
+[Chloë Grace Moretz, James Marsden] == 1
+[John Gallagher Jr., Kaitlyn Dever] == 1
+[Merila Zare'i, Shahab Hosseini] == 1
+[Jack Nicholson, Mark Wahlberg] == 1
+[Richard Dreyfuss, Roy Scheider] == 1
+[Richard Burton, Sandy Dennis] == 1
+[Shilpa Shukla, Vidya Malvade] == 1
+[Leslie Cheung, You Ge] == 1
+[Bob Geldof, James Laurenson] == 1
+[Takashi Shimura, Yukiko Shimazaki] == 1
+[Akio Ôtsuka, Atsuko Tanaka] == 1
+[Ileana D'Cruz, Priyanka Chopra] == 1
+[Charles Bronson, James Garner] == 1
+[John Williams, Ray Milland] == 1
+[Buster Keaton, Joe Keaton] == 1
+[Ana de Armas, Dave Bautista] == 1
+[Machiko Kyô, Masayuki Mori] == 1
+[Jamie Foxx, Leonardo DiCaprio] == 1
+[Corey Feldman, River Phoenix] == 1
+[Lillian Gish, Shelley Winters] == 1
+[Choi Min-sik, Kang Hye-jeong] == 1
+[Ben Affleck, Robin Williams] == 1
+[Madeline Kahn, Ryan O'Neal] == 1
+[Audrey Hepburn, Eddie Albert] == 1
+[Peter Ramsey, Rodney Rothman] == 1
+[George Cukor, Mervyn LeRoy] == 1
+[Lou Romano, Patton Oswalt] == 1
+[Yuriko Ishida, Yûko Tanaka] == 1
+[Antoine Olivier Pilon, Suzanne Clément] == 1
+[Annika Wedderkopp, Thomas Bo Larsen] == 1
+[Baris Bagci, Erdem Can] == 1
+[Bradley Cooper, Vin Diesel] == 1
+[River Phoenix, Wil Wheaton] == 1
+[Christopher Walken, Robert De Niro] == 1
+[Mila Kunis, Winona Ryder] == 1
+[Bob Gunton, William Sadler] == 1
+[Catherine Deneuve, Gena Rowlands] == 1
+[Leonard Frey, Norma Crane] == 1
+[Ellen Burstyn, Lee J. Cobb] == 1
+[Sanjay Dutt, Vidya Balan] == 1
+[Carlos Martínez López, J.K. Simmons] == 1
+[Shah Rukh Khan, Shilpa Shukla] == 1
+[Dev Patel, Freida Pinto] == 1
+[Claudia Cardinale, Jason Robards] == 1
+[Paul Reiser, Sigourney Weaver] == 1
+[Cary Elwes, Robin Wright] == 1
+[Golshifteh Farahani, Shahab Hosseini] == 1
+[Jake Gyllenhaal, Rene Russo] == 1
+[Christopher Walken, Leonardo DiCaprio] == 1
+[Gloria Swanson, Nancy Olson] == 1
+[Nobuo Kaneko, Shin'ichi Himori] == 1
+[Dominique McElligott, Kevin Spacey] == 1
+[Orlando Bloom, Sean Bean] == 1
+[Adrien Brody, Mathieu Amalric] == 1
+[Ben Hardy, Rami Malek] == 1
+[Ayushmann Khurrana, Radhika Apte] == 1
+[Kim Basinger, Russell Crowe] == 1
+[Manoj Bajpayee, Nawazuddin Siddiqui] == 1
+[Jean Gabin, Pierre Fresnay] == 1
+[Billy Crystal, David Silverman] == 1
+[Toshirô Mifune, Yutaka Sada] == 1
+[Masayuki Mori, Takashi Shimura] == 1
+[Julian Dennison, Rima Te Wiata] == 1
+[Irrfan Khan, Mahie Gill] == 1
+[Jerry O'Connell, Wil Wheaton] == 1
+[Anita Ekberg, Yvonne Furneaux] == 1
+[Carl Miller, Charles Chaplin] == 1
+[Chris O'Donnell, Gabrielle Anwar] == 1
+[Jared Leto, Jennifer Garner] == 1
+[Al Pacino, Michelle Pfeiffer] == 1
+[Chris Pine, Zachary Quinto] == 1
+[Frederic Forrest, Marlon Brando] == 1
+[Pete Postlethwaite, Philip King] == 1
+[Kåre Hedebrant, Lina Leandersson] == 1
+[Bibi Andersson, Margaretha Krook] == 1
+[Nicole Kidman, Paul Bettany] == 1
+[Adam Baldwin, R. Lee Ermey] == 1
+[Djimon Hounsou, Jennifer Connelly] == 1
+[Andrea Eckert, Ethan Hawke] == 1
+[Harshaali Malhotra, Salman Khan] == 1
+[Cary-Hiroyuki Tagawa, Joan Allen] == 1
+[Evan Rachel Wood, Marisa Tomei] == 1
+[Antonella Attili, Isa Danieli] == 1
+[Mahershala Ali, Sebastian Maniscalco] == 1
+[Chris Sanders, Jay Baruchel] == 1
+[Gian Maria Volontè, Wolfgang Lukschy] == 1
+[Charles Chaplin, Reginald Gardiner] == 1
+[André Ramiro, Caio Junqueira] == 1
+[Elliot Page, Ken Watanabe] == 1
+[Margaret Wycherly, Virginia Mayo] == 1
+[Julianne Moore, Tom Cruise] == 1
+[Ken Watanabe, Leonardo DiCaprio] == 1
+[Aras Bulut Iynemli, Nisa Sofiya Aksongur] == 1
+[Louise Fletcher, Peter Brocco] == 1
+[Alain Delon, Nathalie Delon] == 1
+[Ethan Hawke, Louise Lemoine Torrès] == 1
+[Ahmet Mümtaz Taylan, Yilmaz Erdogan] == 1
+[Alisa Freyndlikh, Anatoliy Solonitsyn] == 1
+[Irrfan Khan, Konkona Sen Sharma] == 1
+[Frank Morgan, Joseph Schildkraut] == 1
+[Jan Sterling, Kirk Douglas] == 1
+[Christoph Waltz, Jamie Foxx] == 1
+[George Segal, Richard Burton] == 1
+[Sunil Shetty, Tabu] == 1
+[Kirk Douglas, Rhonda Fleming] == 1
+[Philip Seymour Hoffman, Tom Cruise] == 1
+[Atsuko Tanaka, Kôichi Yamadera] == 1
+[Bill Paxton, Tom Cruise] == 1
+[Jack Warden, Shirley MacLaine] == 1
+[Cate Blanchett, Chris Hemsworth] == 1
+[Emma Watson, Rupert Grint] == 1
+[Christoph Waltz, Leonardo DiCaprio] == 1
+[Adrien Brody, Thomas Kretschmann] == 1
+[Payman Maadi, Sareh Bayat] == 1
+[John Cleese, Michael Palin] == 1
+[Bora Todorovic, Davor Dujmovic] == 1
+[Harry Crocker, Merna Kennedy] == 1
+[Kawsar Al Haddad, Zain Al Rafeea] == 1
+[Natalie Portman, Rupert Graves] == 1
+[Ben Johnson, Cybill Shepherd] == 1
+[Alida Valli, Trevor Howard] == 1
+[Dick Hogan, James Stewart] == 1
+[Charles Chaplin, Harry Myers] == 1
+[Indraneil Sengupta, Parambrata Chattopadhyay] == 1
+[Joan Fontaine, Laurence Olivier] == 1
+[Kurt Russell, Wilford Brimley] == 1
+[Kim Novak, Tom Helmore] == 1
+[Alec Guinness, Mark Hamill] == 1
+[Gladys George, Humphrey Bogart] == 1
+[Herbert Grönemeyer, Jürgen Prochnow] == 1
+[Darío Grandinetti, María Marull] == 1
+[Kátia Lund, Leandro Firmino] == 1
+[Dorian Gray, Giulietta Masina] == 1
+[Lena Nyman, Liv Ullmann] == 1
+[Clint Eastwood, Gene Hackman] == 1
+[Arshad Warsi, Gracy Singh] == 1
+[Karl Malden, Vivien Leigh] == 1
+[Faye Dunaway, Peter Finch] == 1
+[Gong Li, Jingwu Ma] == 1
+[Anita Ekberg, Anouk Aimée] == 1
+[James Stewart, Lee Marvin] == 1
+[Amir Farrokh Hashemian, Mohammad Amir Naji] == 1
+[Ryô Kase, Tsuyoshi Ihara] == 1
+[Clint Eastwood, Mara Krupp] == 1
+[Marie-Josée Croze, Mathieu Amalric] == 1
+[Shraddha Kapoor, Varun Sharma] == 1
+[Dick Hogan, John Dall] == 1
+[Claude Rains, James Stewart] == 1
+[Geraldine Chaplin, Rod Steiger] == 1
+[Henry Fonda, Jason Robards] == 1
+[Ryan Reynolds, T.J. Miller] == 1
+[John Cleese, Terry Jones] == 1
+[Mami Koyama, Mitsuo Iwata] == 1
+[Bengt Ekerot, Max von Sydow] == 1
+[Dana Andrews, Teresa Wright] == 1
+[Ayesha Kapoor, Shernaz Patel] == 1
+[Friedrich Feher, Werner Krauss] == 1
+[Liv Ullmann, Margaretha Krook] == 1
+[Annette Bening, Thora Birch] == 1
+[Ahney Her, Clint Eastwood] == 1
+[Ahney Her, Bee Vang] == 1
+[Guy Decomble, Jean-Pierre Léaud] == 1
+[Choi Min-sik, Yoo Ji-Tae] == 1
+[Joe Pantoliano, Mark Boone Junior] == 1
+[Burl Ives, Paul Newman] == 1
+[Joan Greenwood, Valerie Hobson] == 1
+[Faye Dunaway, Jack Nicholson] == 1
+[Chris Pratt, Vin Diesel] == 1
+[Danny Aiello, Richard Edson] == 1
+[Kim Hunter, Maurice Evans] == 1
+[Andrew Garfield, Sam Worthington] == 1
+[Jane Greer, Robert Mitchum] == 1
+[Adel Bencherif, Reda Kateb] == 1
+[Ellar Coltrane, Patricia Arquette] == 1
+[Catherine Deneuve, Chiara Mastroianni] == 1
+[Edmond O'Brien, James Cagney] == 1
+[George Raft, Marilyn Monroe] == 1
+[Nakul Roshan Sahdev, Vijay Varma] == 1
+[Clive Owen, Mickey Rourke] == 1
+[Al Pacino, James Rebhorn] == 1
+[Adel Bencherif, Niels Arestrup] == 1
+[Anushka Sharma, Sanjay Dutt] == 1
+[Bruce Willis, John Travolta] == 1
+[Cathy Moriarty, Joe Pesci] == 1
+[Akihiro Miwa, Chieko Baishô] == 1
+[Robert De Niro, Sharon Stone] == 1
+[Kazuko Yoshiyuki, Tsutomu Yamazaki] == 1
+[Dev Patel, Saurabh Shukla] == 1
+[Clive Owen, Robert Rodriguez] == 1
+[Anne Le Ny, François Cluzet] == 1
+[Gunnar Björnstrand, Victor Sjöström] == 1
+[Christian Bale, Tom Hardy] == 1
+[Daniel Richter, Gary Lockwood] == 1
+[Gary Oldman, Jean Reno] == 1
+[Steve McQueen, Victor Jory] == 1
+[Amitabh Bachchan, Shernaz Patel] == 1
+[Julianne Nicholson, Richard Dormer] == 1
+[Barbara Stanwyck, Fred MacMurray] == 1
+[Chloë Grace Moretz, James Caan] == 1
+[Gian Maria Volontè, Marianne Koch] == 1
+[Anatoliy Solonitsyn, Ivan Lapikov] == 1
+[Jean Martin, Samia Kerbash] == 1
+[Elliot Page, Leonardo DiCaprio] == 1
+[Simon Pegg, Zachary Quinto] == 1
+[Jesse Corti, Kirk Wise] == 1
+[Faye Wong, Takeshi Kaneshiro] == 1
+[Robert Sean Leonard, Robin Williams] == 1
+[Carol Kane, Tony Roberts] == 1
+[Chloë Grace Moretz, Mary Steenburgen] == 1
+[Jinpachi Nezu, Tsutomu Yamazaki] == 1
+[Anne Hathaway, Jessica Chastain] == 1
+[Peter Sellers, Sterling Hayden] == 1
+[Charlize Theron, Zoë Kravitz] == 1
+[James Stewart, Thelma Ritter] == 1
+[Dustin Hoffman, Victor Jory] == 1
+[Brad Pitt, Michael Kenneth Williams] == 1
+[Ellen DeGeneres, Lee Unkrich] == 1
+[Akshay Kumar, Rana Daggubati] == 1
+[Anne Bancroft, William Daniels] == 1
+[Christopher Walken, John Savage] == 1
+[Roscoe Karns, Walter Connolly] == 1
+[Akshay Kumar, Jimmy Sheirgill] == 1
+[F. Murray Abraham, Tom Hulce] == 1
+[Francine Racette, Stanislas Carré de Malberg] == 1
+[Al Pacino, Val Kilmer] == 1
+[Harry Connick Jr., Jennifer Aniston] == 1
+[Jan Sterling, Robert Arthur] == 1
+[Amole Gupte, Darsheel Safary] == 1
+[Brenda Blethyn, Phyllis Logan] == 1
+[Christian Bale, Gary Oldman] == 1
+[Brendan Gleeson, Emily Blunt] == 1
+[Jack Oakie, Reginald Gardiner] == 1
+[Natalie Portman, Stephen Rea] == 1
+[Mirjana Jokovic, Predrag 'Miki' Manojlovic] == 1
+[Gene Hackman, Morgan Freeman] == 1
+[Niels Arestrup, Reda Kateb] == 1
+[Clint Eastwood, Hilary Swank] == 1
+[Penelope Allen, Sully Boyar] == 1
+[Lea Thompson, Michael J. Fox] == 1
+[Kamatari Fujiwara, Minoru Chiaki] == 1
+[Aleksey Kravchenko, Olga Mironova] == 1
+[Yôji Matsuda, Yûko Tanaka] == 1
+[Hubertus Bengsch, Jürgen Prochnow] == 1
+[Ewan McGregor, Ewen Bremner] == 1
+[Rajat Kapoor, Shriya Saran] == 1
+[Anne Dorval, Antoine Olivier Pilon] == 1
+[Martin Sheen, Tom Hanks] == 1
+[Bette Davis, Victor Buono] == 1
+[Catherine Keener, Emile Hirsch] == 1
+[Jaya Bachchan, Preity Zinta] == 1
+[Anne Hathaway, Christian Bale] == 1
+[Kristina Adolphson, Pernilla Allwin] == 1
+[Chris Penn, Harvey Keitel] == 1
+[Carrie Henn, Michael Biehn] == 1
+[Sagarika Ghatge, Vidya Malvade] == 1
+[Paulette Goddard, Reginald Gardiner] == 1
+[Anand Gandhi, Jyoti Malshe] == 1
+[Jack Carson, Paul Newman] == 1
+[Harvey Keitel, Robert De Niro] == 1
+[Hugh Jackman, Michael Caine] == 1
+[Joaquin Phoenix, Xolani Mali] == 1
+[Ellen Widmann, Peter Lorre] == 1
+[Ramya Krishnan, Rana Daggubati] == 1
+[Al Pacino, Gabrielle Anwar] == 1
+[Chris Penn, Tim Roth] == 1
+[Ajay Devgn, Rajat Kapoor] == 1
+[Maggie Cheung, Tung Cho 'Joe' Cheung] == 1
+[Edward James Olmos, Rutger Hauer] == 1
+[Jong-ho Kim, Yeong-su Oh] == 1
+[Masayuki Mori, Toshirô Mifune] == 1
+[Parambrata Chattopadhyay, Vidya Balan] == 1
+[Edward James Olmos, Harrison Ford] == 1
+[Anthony Hopkins, Jodie Foster] == 1
+[Aleksandr Antonov, Grigoriy Aleksandrov] == 1
+[Matt Damon, Tom Sizemore] == 1
+[Haya Harareet, Jack Hawkins] == 1
+[Alexandra Maria Lara, Juliane Köhler] == 1
+[Sharman Joshi, Siddharth] == 1
+[Chiara Mastroianni, Marjane Satrapi] == 1
+[Ulrich Mühe, Ulrich Tukur] == 1
+[Jean Martin, Yacef Saadi] == 1
+[Andrew Kevin Walker, Kevin Spacey] == 1
+[Liam Neeson, Michael Caine] == 1
+[Kazuya Tsurumaki, Yûko Miyamura] == 1
+[Bengt Ekerot, Nils Poppe] == 1
+[Cybill Shepherd, Timothy Bottoms] == 1
+[Jeremy Renner, Scarlett Johansson] == 1
+[Amjad Khan, Sanjeev Kumar] == 1
+[Caio Junqueira, Wagner Moura] == 1
+[Franca Marzi, François Périer] == 1
+[J.K. Simmons, Jason Schwartzman] == 1
+[Jeff Goldblum, Richard Attenborough] == 1
+[Sean Bridgers, Wendy Crewson] == 1
+[Daniel Craig, Judi Dench] == 1
+[Eduard Abalov, Nikolay Burlyaev] == 1
+[Nobuo Kaneko, Takashi Shimura] == 1
+[Clark Gable, Roscoe Karns] == 1
+[Kotoe Hatsui, Mayumi Tanaka] == 1
+[Lorraine Bracco, Ray Liotta] == 1
+[James Caan, Mary Steenburgen] == 1
+[Anthony Chau-Sang Wong, Tony Chiu-Wai Leung] == 1
+[Lubna Azabal, Mélissa Désormeaux-Poulin] == 1
+[Golshifteh Farahani, Taraneh Alidoosti] == 1
+[Alexandre Tharaud, Jean-Louis Trintignant] == 1
+[Beverly D'Angelo, Edward Furlong] == 1
+[Jared Leto, Marlon Wayans] == 1
+[Donatas Banionis, Jüri Järvet] == 1
+[Aidan Gillen, Ferdia Walsh-Peelo] == 1
+[Graham Chapman, Michael Palin] == 1
+[Brad Pitt, Madeleine Stowe] == 1
+[Barry Humphries, Toni Collette] == 1
+[Dita Parlo, Erich von Stroheim] == 1
+[Agnes Moorehead, Orson Welles] == 1
+[Fengyi Zhang, You Ge] == 1
+[Ileana D'Cruz, Saurabh Shukla] == 1
+[Hugh Jackman, James McAvoy] == 1
+[Jean-Louis Trintignant, Jean-Pierre Lorit] == 1
+[Julie Christie, Rod Steiger] == 1
+[Miyu Irino, Suzanne Pleshette] == 1
+[Alan Mak, Anthony Chau-Sang Wong] == 1
+[Kevin Spacey, Thora Birch] == 1
+[Porter Hall, Robert Arthur] == 1
+[Chris O'Donnell, James Rebhorn] == 1
+[Irene Papas, Michael Ansara] == 1
+[Celia Johnson, Joyce Carey] == 1
+[Edward Norton, Zach Grenier] == 1
+[Gong Li, Saifei He] == 1
+[Ken'ichi Hagiwara, Tsutomu Yamazaki] == 1
+[Konkona Sen Sharma, Neeraj Kabi] == 1
+[Jack Nicholson, Shelley Duvall] == 1
+[Domhnall Gleeson, Leonardo DiCaprio] == 1
+[François Périer, Giulietta Masina] == 1
+[Allen Leech, Benedict Cumberbatch] == 1
+[Amitabh Bachchan, Rajesh Khanna] == 1
+[Sam Rockwell, Woody Harrelson] == 1
+[Francine Racette, Raphael Fejtö] == 1
+[Eduard Abalov, Evgeniy Zharikov] == 1
+[Jun Ji-Hyun, Song Wok-suk] == 1
+[Harrison Ford, Karen Allen] == 1
+[Kajol, Sheetal Menon] == 1
+[Laura Linney, Noah Emmerich] == 1
+[Rani Mukerji, Shernaz Patel] == 1
+[Irène Jacob, Jean-Pierre Lorit] == 1
+[Carol Kane, Diane Keaton] == 1
+[Jang Dong-Gun, Won Bin] == 1
+[Mami Koyama, Tesshô Genda] == 1
+[Jeremy Renner, Michael Stuhlbarg] == 1
+[Charles Chaplin, Mack Swain] == 1
+[Jack Hawkins, Peter O'Toole] == 1
+[Elizabeth Taylor, Jack Carson] == 1
+[Tom Berenger, Willem Dafoe] == 1
+[Tony Roberts, Woody Allen] == 1
+[Amir Farrokh Hashemian, Bahare Seddiqi] == 1
+[Hemendra Dandotiya, Rajesh Abhay] == 1
+[Ivana Baquero, Maribel Verdú] == 1
+[Anthony Quinn, Michael Ansara] == 1
+[Charles Chaplin, Virginia Cherrill] == 1
+[Ken'ichi Hagiwara, Tatsuya Nakadai] == 1
+[Ben Hardy, Gwilym Lee] == 1
+[Hilary Swank, Morgan Freeman] == 1
+[Hugh Jackman, Scarlett Johansson] == 1
+[Joan Cusack, Ned Beatty] == 1
+[Adolphe Menjou, Kirk Douglas] == 1
+[Ned Beatty, Tim Allen] == 1
+[Catherine O'Hara, Danny Elfman] == 1
+[Ranveer Singh, Vijay Varma] == 1
+[Manoj Bajpayee, Tigmanshu Dhulia] == 1
+[Andrew Garfield, Luke Bracey] == 1
+[Carl Benton Reid, Gloria Grahame] == 1
+[Megumi Hayashibara, Yûko Miyamura] == 1
+[Keith David, Richard Masur] == 1
+[Karl Malden, Kim Hunter] == 1
+[Adrien Brody, Emilia Fox] == 1
+[Tatsuya Nakadai, Yûnosuke Itô] == 1
+[Alec Guinness, Valerie Hobson] == 1
+[Cary Grant, Priscilla Lane] == 1
+[Janet Gaynor, Margaret Livingston] == 1
+[Dave Johns, Laura Obiols] == 1
+[Ivan Dobronravov, Vladimir Garin] == 1
+[Choi Woo-sik, Lee Sun-kyun] == 1
+[Christian Bale, Hugh Jackman] == 1
+[Colin Firth, George MacKay] == 1
+[Laura Dern, Richard Attenborough] == 1
+[Elizabeth Taylor, Richard Burton] == 1
+[Cathy Rosier, François Périer] == 1
+[Laura Obiols, Marie-Josée Croze] == 1
+[Mia Farrow, Ruth Gordon] == 1
+[Lin-Manuel Miranda, Renée Elise Goldsberry] == 1
+[Frantz Turner, Kaitlyn Dever] == 1
+[Ana Wagener, Mario Casas] == 1
+[Danny Aiello, Gary Oldman] == 1
+[Brian Howe, Will Smith] == 1
+[Daniel Craig, Jamie Lee Curtis] == 1
+[Jyoti Malshe, Sohum Shah] == 1
+[Rajat Barmecha, Ronit Roy] == 1
+[Nick Nolte, Tom Hardy] == 1
+[Michael Fassbender, Michael Kenneth Williams] == 1
+[Akira Terao, Jinpachi Nezu] == 1
+[Jennifer Morrison, Tom Hardy] == 1
+[Alec Guinness, Joan Greenwood] == 1
+[George Clooney, Jason Schwartzman] == 1
+[Bruce Bennett, Walter Huston] == 1
+[Lily Franky, Mayu Matsuoka] == 1
+[Frances Conroy, Joaquin Phoenix] == 1
+[Joyce Carey, Trevor Howard] == 1
+[Brendan Gleeson, David Rawle] == 1
+[Damian Chapa, Jesse Borrego] == 1
+[Frederic Forrest, Robert Duvall] == 1
+[Ramya Krishnan, Sathyaraj] == 1
+[Vicky Kaushal, Yami Gautam] == 1
+[Shah Rukh Khan, Smit Sheth] == 1
+[Eijirô Tôno, Yôko Tsukasa] == 1
+[Emeric Pressburger, Marius Goring] == 1
+[Jack Nicholson, Perry Lopez] == 1
+[Emmanuelle Seigner, Marie-Josée Croze] == 1
+[George Clooney, Meryl Streep] == 1
+[Shah Rukh Khan, Vidya Malvade] == 1
+[Ana de Armas, Chris Evans] == 1
+[Cybill Shepherd, Robert De Niro] == 1
+[Ahmet Mümtaz Taylan, Muhammet Uzuner] == 1
+[Aparna Balamurali, Suriya] == 1
+[Kawsar Al Haddad, Yordanos Shiferaw] == 1
+[Christopher Walken, Martin Sheen] == 1
+[Katie A. Keane, Shah Rukh Khan] == 1
+[Daisy Ridley, Oscar Isaac] == 1
+[Jason Statham, Nick Moran] == 1
+[Alexandru Potocean, Anamaria Marinca] == 1
+[John Gielgud, Rohini Hattangadi] == 1
+[Kareena Kapoor, Shahid Kapoor] == 1
+[Ellen Burstyn, Jared Leto] == 1
+[Ramesh Deo, Sumita Sanyal] == 1
+[Hugo Weaving, Natalie Portman] == 1
+[Harriet Andersson, Ingrid Thulin] == 1
+[Ana de Armas, Jamie Lee Curtis] == 1
+[Amy Poehler, Ronnie Del Carmen] == 1
+[Nicholas Hoult, Zoë Kravitz] == 1
+[Bruce Willis, Reginald VelJohnson] == 1
+[Ansiba, Meena] == 1
+[Nicholas Hoult, Tom Hardy] == 1
+[Dana Andrews, Vincent Price] == 1
+[Luke Bracey, Sam Worthington] == 1
+[Jack Nicholson, John Huston] == 1
+[Ingrid Bergman, Liv Ullmann] == 1
+[Brahim Hadjadj, Jean Martin] == 1
+[Connie Nielsen, Oliver Reed] == 1
+[Mustafa Kamel, Mélissa Désormeaux-Poulin] == 1
+[Annette Bening, Wes Bentley] == 1
+[Claudia Cardinale, Henry Fonda] == 1
+[Dita Parlo, Jean Gabin] == 1
+[Catherine Deneuve, Marjane Satrapi] == 1
+[Eli Roth, Mélanie Laurent] == 1
+[Cary Grant, Jack Carson] == 1
+[Kevin Spacey, Morgan Freeman] == 1
+[Dick York, Spencer Tracy] == 1
+[Alison Crosbie, Philip King] == 1
+[José Lewgoy, Miguel Ángel Fuentes] == 1
+[Nimrat Kaur, Prakash Belawadi] == 1
+[Bora Todorovic, Ljubica Adzovic] == 1
+[Craig Bierko, Russell Crowe] == 1
+[Bonnie Hunt, Tom Hanks] == 1
+[Christopher Lloyd, Michael J. Fox] == 1
+[Julianne Nicholson, Willem Dafoe] == 1
+[Chris Sarandon, Robin Wright] == 1
+[Denholm Elliott, Sean Connery] == 1
+[Emma Watson, Paul Rudd] == 1
+[Gong Li, You Ge] == 1
+[Jared Bush, Rich Moore] == 1
+[George C. Scott, Jackie Gleason] == 1
+[Kirk Douglas, Robert Mitchum] == 1
+[Adam Driver, Julia Greer] == 1
+[Dafne Keen, Patrick Stewart] == 1
+[Curt Bois, Otto Sander] == 1
+[Ethan Hawke, Robert Sean Leonard] == 1
+[Gloria Grahame, Humphrey Bogart] == 1
+[Daniel Mays, George MacKay] == 1
+[Felix Bressart, Robert Stack] == 1
+[Aamir Bashir, Anupam Kher] == 1
+[Akira Terao, Tatsuya Nakadai] == 1
+[Eli Marienthal, Jennifer Aniston] == 1
+[Ian McKellen, Sean Bean] == 1
+[Sessue Hayakawa, William Holden] == 1
+[Myrna Loy, Teresa Wright] == 1
+[Adrian Molina, Anthony Gonzalez] == 1
+[Anthony Quinn, Irene Papas] == 1
+[George Macready, Ralph Meeker] == 1
+[Kang-ho Song, Roe-ha Kim] == 1
+[Claude Rains, Edward Arnold] == 1
+[Alison Doody, Harrison Ford] == 1
+[Ned Beatty, Tom Hanks] == 1
+[Brahim Hadjadj, Yacef Saadi] == 1
+[Saswata Chatterjee, Sushant Singh Rajput] == 1
+[Akshay Kumar, Mahesh Manjrekar] == 1
+[Farida Jalal, Kajol] == 1
+[Bradley Cooper, Chris Pratt] == 1
+[Joe Keaton, Kathryn McGuire] == 1
+[Lazar Ristovski, Predrag 'Miki' Manojlovic] == 1
+[Leonardo DiCaprio, Mark Wahlberg] == 1
+[Anton Walbrook, Marius Goring] == 1
+[Henry Fonda, John Carradine] == 1
+[Eric Idle, Terry Jones] == 1
+[Shraddha Kapoor, Tabu] == 1
+[Albert Rémy, Claire Maurier] == 1
+[Emma Stone, Ryan Gosling] == 1
+[Rhonda Fleming, Robert Mitchum] == 1
+[Henry Fonda, Lee J. Cobb] == 1
+[Andrew Kevin Walker, Brad Pitt] == 1
+[Bob Peterson, John Ratzenberger] == 1
+[Ray Milland, Robert Cummings] == 1
+[Humphrey Bogart, Peter Lorre] == 1
+[Arnold Schwarzenegger, Edward Furlong] == 1
+[Ryô Narita, Ryûnosuke Kamiki] == 1
+[Billy Crystal, John Goodman] == 1
+[Leonardo DiCaprio, Tom Hardy] == 1
+[Edward Furlong, Jennifer Lien] == 1
+[Jae-ho Song, Roe-ha Kim] == 1
+[Anne Baxter, Celeste Holm] == 1
+[Joseph A. Carpenter, Richard Farnsworth] == 1
+[Gene Wilder, Peter Boyle] == 1
+[Fionnula Flanagan, Lisa Hannigan] == 1
+[Carl Benton Reid, Humphrey Bogart] == 1
+[Emilia Fox, Thomas Kretschmann] == 1
+[Robin Williams, Stellan Skarsgård] == 1
+[Ingrid Thulin, Kari Sylwan] == 1
+[Jared Bush, Jason Bateman] == 1
+[Gerry Robert Byrne, Kate Winslet] == 1
+[Bruno Ganz, Curt Bois] == 1
+[Giorgio Cantarini, Nicoletta Braschi] == 1
+[Hyeong-jin Kong, Jang Dong-Gun] == 1
+[Maggie Cheung, Tony Chiu-Wai Leung] == 1
+[Peter Finch, William Holden] == 1
+[Kotoe Hatsui, Minori Terada] == 1
+[Ivana Baquero, Sergi López] == 1
+[George O'Brien, Margaret Livingston] == 1
+[Josh Charles, Robert Sean Leonard] == 1
+[Eva Green, Jeffrey Wright] == 1
+[Henning Moritzen, Paprika Steen] == 1
+[Alec Guinness, Carrie Fisher] == 1
+[Catherine Keener, Vince Vaughn] == 1
+[Alec Guinness, Harrison Ford] == 1
+[Margarita Terekhova, Oleg Yankovskiy] == 1
+[Akemi Yamaguchi, Tsutomu Tatsumi] == 1
+[Harshaali Malhotra, Kareena Kapoor] == 1
+[Christopher Lloyd, Crispin Glover] == 1
+[Irandhir Santos, Milhem Cortaz] == 1
+[Martin Milner, Tony Curtis] == 1
+[Daniel Richter, William Sylvester] == 1
+[James Garner, Steve McQueen] == 1
+[Aoi Yûki, Mone Kamishiraishi] == 1
+[Cho Jin-woong, Jung-woo Ha] == 1
+[Boyd Holbrook, Dafne Keen] == 1
+[Enzo Tarascio, Gastone Moschin] == 1
+[Anouk Aimée, Claudia Cardinale] == 1
+[Jacqueline Andere, Silvia Pinal] == 1
+[Izabela Vidovic, Jacob Tremblay] == 1
+[Dorian Gray, Franca Marzi] == 1
+[Elizabeth McGovern, James Woods] == 1
+[Jessica Chastain, Mackenzie Foy] == 1
+[Charlie Sheen, Keith David] == 1
+[Danny Denzongpa, Taapsee Pannu] == 1
+[Jason Robards, Tom Cruise] == 1
+[Kajol, Katie A. Keane] == 1
+[J.K. Simmons, Ryan Gosling] == 1
+[Arifin Putra, Iko Uwais] == 1
+[Edgar Ramírez, Matt Damon] == 1
+[Robert Redford, Strother Martin] == 1
+[Brad Pitt, Morgan Freeman] == 1
+[Jennifer Garner, Matthew McConaughey] == 1
+[Derek Jacobi, Helena Bonham Carter] == 1
+[Abhay Deol, Dibyendu Bhattacharya] == 1
+[Jamie Foxx, Tina Fey] == 1
+[Glen Cavender, Marion Mack] == 1
+[Bruce Willis, Joseph Melito] == 1
+[Sener Sen, Ugur Yücel] == 1
+[Burt Lancaster, Richard Widmark] == 1
+[Janet Leigh, Joseph Calleia] == 1
+[Bill Murray, George Clooney] == 1
+[Catinca Untaru, Lee Pace] == 1
+[Ana de Armas, Ryan Gosling] == 1
+[Samuel L. Jackson, Uma Thurman] == 1
+[Rene Russo, Riz Ahmed] == 1
+[Brenda Blethyn, Timothy Spall] == 1
+[Domhnall Gleeson, Tom Hardy] == 1
+[John Cazale, John Savage] == 1
+[Albert Rémy, Guy Decomble] == 1
+[Emmanuelle Seigner, Laura Obiols] == 1
+[Akshay Kumar, Danny Denzongpa] == 1
+[Sebastian Koch, Ulrich Tukur] == 1
+[Laura Obiols, Mathieu Amalric] == 1
+[Burt Lancaster, Spencer Tracy] == 1
+[Mack Swain, Tom Murray] == 1
+[Eugene Silvain, Maurice Schutz] == 1
+[Lee J. Cobb, Marlon Brando] == 1
+[Peter van Eyck, Yves Montand] == 1
+[Bérénice Bejo, John Goodman] == 1
+[Henrik Dahl, Lina Leandersson] == 1
+[Vincent Cassel, Winona Ryder] == 1
+[David Rawle, Lisa Hannigan] == 1
+[Claude Rains, Jean Arthur] == 1
+[Matt Damon, Tom Hanks] == 1
+[John Rhys-Davies, Paul Freeman] == 1
+[Irrfan Khan, Tabu] == 1
+[Claudette Colbert, Roscoe Karns] == 1
+[Anil Dhawan, Tabu] == 1
+[Mélanie Thierry, Tim Roth] == 1
+[David Silverman, John Goodman] == 1
+[Andrea Tariang, Kirti Kulhari] == 1
+[Norman Taurog, Richard Thorpe] == 1
+[Brie Larson, Wendy Crewson] == 1
+[Jimmy Sheirgill, Naseeruddin Shah] == 1
+[Jeremy Irons, Rob Minkoff] == 1
+[Guy Pearce, Mark Boone Junior] == 1
+[Kareena Kapoor, Nawazuddin Siddiqui] == 1
+[Benjamin Bratt, Damian Chapa] == 1
+[Manoj Bajpayee, Richa Chadha] == 1
+[Junko Iwao, Masaaki Ôkura] == 1
+[Edgar Ramírez, Joan Allen] == 1
+[Geraldine Chaplin, Julie Christie] == 1
+[George Kennedy, Strother Martin] == 1
+[Richard Dormer, Willem Dafoe] == 1
+[Don Taylor, Otto Preminger] == 1
+[Aamir Khan, Raveena Tandon] == 1
+[Adolphe Menjou, Ralph Meeker] == 1
+[Robin Williams, Scott Weinger] == 1
+[Haruo Tanaka, Nobuo Kaneko] == 1
+[Bob Peterson, Edward Asner] == 1
+[Al Pacino, Harvey Keitel] == 1
+[Misa Uehara, Toshirô Mifune] == 1
+[Bonnie Hunt, Michael Clarke Duncan] == 1
+[Hanno Pöschl, Julie Delpy] == 1
+[Hubert Koundé, Saïd Taghmaoui] == 1
+[Adolphe Menjou, George Macready] == 1
+[Caleb Landry Jones, Frances McDormand] == 1
+[Kay Kay Menon, Tabu] == 1
+[Atsuko Tanaka, Iemasa Kayumi] == 1
+[Aleksandr Kaydanovskiy, Alisa Freyndlikh] == 1
+[Johnny Sekka, Michael Ansara] == 1
+[Peter Sellers, Shirley MacLaine] == 1
+[Dick York, Gene Kelly] == 1
+[Miles Teller, Paul Reiser] == 1
+[Carla Quevedo, Soledad Villamil] == 1
+[Laura Dern, Sam Neill] == 1
+[François Périer, Nathalie Delon] == 1
+[Charles Laughton, Tyrone Power] == 1
+[Celia Johnson, Trevor Howard] == 1
+[Grace Kelly, Thelma Ritter] == 1
+[Dustin Hoffman, Tom Cruise] == 1
+[F. Murray Abraham, Ralph Fiennes] == 1
+[Graham Chapman, Terry Gilliam] == 1
+[Eli Marienthal, Harry Connick Jr.] == 1
+[Ben Kingsley, Mark Ruffalo] == 1
+[Alec Guinness, William Holden] == 1
+[Akshay Kumar, Sunil Shetty] == 1
+[Derek Jacobi, Geoffrey Rush] == 1
+[Jessica Chastain, Kate Mara] == 1
+[Jean Dujardin, John Goodman] == 1
+[James Stewart, Jean Arthur] == 1
+[Alexandre Rodrigues, Kátia Lund] == 1
+[Charles Vanel, Simone Signoret] == 1
+[Gian Maria Volontè, Mara Krupp] == 1
+[Jennifer Morrison, Joel Edgerton] == 1
+[Joan Allen, Matt Damon] == 1
+[Bill Murray, Meryl Streep] == 1
+[Eugene Silvain, Maria Falconetti] == 1
+[Cathy Moriarty, Frank Vincent] == 1
+[Josh Charles, Robin Williams] == 1
+[Dorothy Comingore, Joseph Cotten] == 1
+[Phillipa Soo, Renée Elise Goldsberry] == 1
+[Ismail Hacioglu, Kyung-jin Lee] == 1
+[Joseph Gordon-Levitt, Leonardo DiCaprio] == 1
+[Machiko Kyô, Toshirô Mifune] == 1
+[Peter Ramsey, Shameik Moore] == 1
+[Hee Jae, Hyuk-ho Kwon] == 1
+[Al Pacino, Penelope Allen] == 1
+[Elena Altieri, Lianella Carell] == 1
+[Saïd Taghmaoui, Vincent Cassel] == 1
+[Jeffrey Ho, Rajkummar Rao] == 1
+[Brigitte Helm, Gustav Fröhlich] == 1
+[Linda Larkin, Scott Weinger] == 1
+[Christopher Plummer, Jennifer Connelly] == 1
+[Humphrey Bogart, Walter Huston] == 1
+[Rana Daggubati, Sathyaraj] == 1
+[Julianne Moore, Philip Seymour Hoffman] == 1
+[Chris Elliott, Stephen Tobolowsky] == 1
+[Ethan Hawke, Robin Williams] == 1
+[Michael Biehn, Sigourney Weaver] == 1
+[Bibi Andersson, Victor Sjöström] == 1
+[Brad Pitt, Zach Grenier] == 1
+[Carl Möhner, Janine Darcey] == 1
+[Aamir Khan, Fatima Sana Shaikh] == 1
+[Aamir Khan, Tisca Chopra] == 1
+[J.K. Simmons, Rashida Jones] == 1
+[Shin'ichi Himori, Takashi Shimura] == 1
+[Anatoliy Solonitsyn, Nikolay Sergeev] == 1
+[Gunnel Lindblom, Max von Sydow] == 1
+[Bob Geldof, Christine Hargreaves] == 1
+[Scatman Crothers, Shelley Duvall] == 1
+[Eun-ju Lee, Jang Dong-Gun] == 1
+[Michael Bates, Patrick Magee] == 1
+[Ellar Coltrane, Ethan Hawke] == 1
+[Aoi Miyazaki, Yukito Nishii] == 1
+[Bette Davis, Joan Crawford] == 1
+[Frederic Forrest, Martin Sheen] == 1
+[Leslie Odom Jr., Phillipa Soo] == 1
+[Franca Marzi, Giulietta Masina] == 1
+[Edward Norton, Koyu Rankin] == 1
+[Keiko Tsushima, Yukiko Shimazaki] == 1
+[Chiwetel Ejiofor, Michael Kenneth Williams] == 1
+[Josh Brolin, Tommy Lee Jones] == 1
+[Bette Davis, George Sanders] == 1
+[Chris Hemsworth, Olivia Wilde] == 1
+[Anne Dorval, Patrick Huard] == 1
+[Cuifen Cao, Gong Li] == 1
+[Cary Grant, Raymond Massey] == 1
+[James Gleason, Shelley Winters] == 1
+[Prateik, Sushant Singh Rajput] == 1
+[Abhay Deol, Kalki Koechlin] == 1
+[Alec Guinness, Sessue Hayakawa] == 1
+[Ben Kingsley, Liam Neeson] == 1
+[Ranbir Kapoor, Saurabh Shukla] == 1
+[Albert Finney, Jessica Lange] == 1
+[David Morse, Peter Stormare] == 1
+[José Baviera, Silvia Pinal] == 1
+[Bryce Dallas Howard, Octavia Spencer] == 1
+[Altan Erkekli, Yilmaz Erdogan] == 1
+[Agnes Moorehead, Dorothy Comingore] == 1
+[Brad Pitt, Chiwetel Ejiofor] == 1
+[Lisa Haydon, Rajkummar Rao] == 1
+[Miyu Irino, Rumi Hiiragi] == 1
+[Anton Walbrook, Emeric Pressburger] == 1
+[Molly Picon, Norma Crane] == 1
+[Dara Singh, Tarun Arora] == 1
+[Burt Lancaster, Tony Curtis] == 1
+[James Marsden, Mary Steenburgen] == 1
+[Gwilym Lee, Rami Malek] == 1
+[Andie MacDowell, Bill Murray] == 1
+[Anne Bancroft, Dustin Hoffman] == 1
+[George C. Scott, Piper Laurie] == 1
+[Elijah Smith, Ellar Coltrane] == 1
+[Charles Vanel, Véra Clouzot] == 1
+[Corey Feldman, Jerry O'Connell] == 1
+[John Cassavetes, Mia Farrow] == 1
+[James Stewart, Vera Miles] == 1
+[Amitabh Bachchan, Amjad Khan] == 1
+[Amitabh Bachchan, Ramesh Deo] == 1
+[Joel Edgerton, Tom Hardy] == 1
+[Kim Byeong-Ok, Yoo Ji-Tae] == 1
+[Celile Toyon Uysal, Deniz Baysal] == 1
+[Aaron Eckhart, Christian Bale] == 1
+[Liubomiras Laucevicius, Vladas Bagdonas] == 1
+[Jaden Smith, Will Smith] == 1
+[Michael Caine, Scarlett Johansson] == 1
+[Brad Pitt, Eli Roth] == 1
+[Aparna Balamurali, Paresh Rawal] == 1
+[Harriet Andersson, Liv Ullmann] == 1
+[Anouk Aimée, Yvonne Furneaux] == 1
+[Ciarán Hinds, Paul Dano] == 1
+[Kim Hunter, Roddy McDowall] == 1
+[Erich von Stroheim, William Holden] == 1
+[Jung-woo Ha, Kim Min-hee] == 1
+[Lee Marvin, Vera Miles] == 1
+[Cary Grant, Jessie Royce Landis] == 1
+[Andy Lau, Tony Chiu-Wai Leung] == 1
+[Graham Greene, Kevin Costner] == 1
+[Charley Grapewin, John Carradine] == 1
+[Elsa Lanchester, Marlene Dietrich] == 1
+[Archana Jois, Srinidhi Shetty] == 1
+[Gracy Singh, Raghuvir Yadav] == 1
+[Cary Elwes, Mandy Patinkin] == 1
+[John Hurt, Veronica Cartwright] == 1
+[Erich von Stroheim, Nancy Olson] == 1
+[Jack Lemmon, Kevin Costner] == 1
+[Bill Paxton, Rene Russo] == 1
+[Ileana D'Cruz, Ranbir Kapoor] == 1
+[Jürgen Prochnow, Klaus Wennemann] == 1
+[Chazz Palminteri, Gabriel Byrne] == 1
+[Halvar Björk, Liv Ullmann] == 1
+[Adam Driver, Scarlett Johansson] == 1
+[Billy Crudup, Jessica Lange] == 1
+[Arifin Putra, Oka Antara] == 1
+[Clint Eastwood, Eli Wallach] == 1
+[Bill Murray, Jason Schwartzman] == 1
+[Linda Cardellini, Mahershala Ali] == 1
+[Dean-Charles Chapman, George MacKay] == 1
+[André S. Labarthe, Anna Karina] == 1
+[Tim Holt, Walter Huston] == 1
+[Adrien Brody, F. Murray Abraham] == 1
+[Ayesha Kapoor, Rani Mukerji] == 1
+[Ben Johnson, Timothy Bottoms] == 1
+[Anita Ekberg, Marcello Mastroianni] == 1
+[Bruno Ganz, Solveig Dommartin] == 1
+[Rachel House, Rima Te Wiata] == 1
+[Ryan O'Neal, Tatum O'Neal] == 1
+[Ian McKellen, James McAvoy] == 1
+[Adesh Prasad, Sohum Shah] == 1
+[Hitoshi Takagi, Noriko Hidaka] == 1
+[Lubna Azabal, Mustafa Kamel] == 1
+[Ayushmann Khurrana, Sanya Malhotra] == 1
+[Ginnifer Goodwin, Jason Bateman] == 1
+[Caitriona Balfe, Matt Damon] == 1
+[Manjot Singh, Ronit Roy] == 1
+[Davor Dujmovic, Ljubica Adzovic] == 1
+[Fernanda Montenegro, Vinícius de Oliveira] == 1
+[Muhammet Uzuner, Taner Birsel] == 1
+[Aamir Khan, Madhavan] == 1
+[Sylvester Stallone, Talia Shire] == 1
+[Brie Larson, Frantz Turner] == 1
+[Orson Welles, Trevor Howard] == 1
+[Cuifen Cao, Saifei He] == 1
+[Henning Moritzen, Ulrich Thomsen] == 1
+[Thora Birch, Wes Bentley] == 1
+[Gene Kelly, Gene Kelly] == 1
+[Aamir Khan, Raghuvir Yadav] == 1
+[In-mun Kim, Tae-Hyun Cha] == 1
+[Moritz Bleibtreu, Thierry van Werveke] == 1
+[Lionel Barrymore, Thomas Mitchell] == 1
+[Jacob Tremblay, Wendy Crewson] == 1
+[Judith Anderson, Laurence Olivier] == 1
+[Caleb Landry Jones, Woody Harrelson] == 1
+[Akemi Yamaguchi, Yoshiko Shinohara] == 1
+[Martin Milner, Susan Harrison] == 1
+[Ben Burtt, Elissa Knight] == 1
+[Gracy Singh, Sanjay Dutt] == 1
+[Leonard Nimoy, Zachary Quinto] == 1
+[Robert Mitchum, Shelley Winters] == 1
+[Keith David, Wilford Brimley] == 1
+[Marcel Dalio, Paulette Dubost] == 1
+[George Kennedy, Paul Newman] == 1
+[Arifin Putra, Yayan Ruhian] == 1
+[Bob Peterson, Jordan Nagai] == 1
+[Frank Finlay, Thomas Kretschmann] == 1
+[Jane Galloway Heitz, Sissy Spacek] == 1
+[Ed Skrein, Morena Baccarin] == 1
+[Daisuke Ryû, Jinpachi Nezu] == 1
+[Craig T. Nelson, Jason Lee] == 1
+[Frances Conroy, Robert De Niro] == 1
+[Adesh Prasad, Anand Gandhi] == 1
+[Matt Damon, Robin Williams] == 1
+[Brad Pitt, Joseph Melito] == 1
+[Elena Altieri, Lamberto Maggiorani] == 1
+[Enrique Rambal, Silvia Pinal] == 1
+[Dorothy Comingore, Orson Welles] == 1
+[Domhnall Gleeson, John Boyega] == 1
+[Jeff Goldblum, Laura Dern] == 1
+[Christian Bale, Jon Bernthal] == 1
+[Kate Mara, Kristen Wiig] == 1
+[Daniel Day-Lewis, Philip King] == 1
+[Dustin Hoffman, Steve McQueen] == 1
+[Paresh Rawal, Tabu] == 1
+[Jean Servais, Robert Manuel] == 1
+[Dara Singh, Shahid Kapoor] == 1
+[Amitabh Bachchan, Ayesha Kapoor] == 1
+[Brenda Blethyn, Claire Rushbrook] == 1
+[Nat Pendleton, William Powell] == 1
+[Marisa Tomei, Mickey Rourke] == 1
+[Shima Iwashita, Tetsurô Tanba] == 1
+[George Macready, Kirk Douglas] == 1
+[Amy Adams, Michael Stuhlbarg] == 1
+[Kurt Russell, Richard Masur] == 1
+[Daniel Brühl, Olivia Wilde] == 1
+[Claude Rains, Humphrey Bogart] == 1
+[Mervyn LeRoy, Richard Thorpe] == 1
+[John Wayne, Lee Marvin] == 1
+[Keiko Yokozawa, Kotoe Hatsui] == 1
+[Burt Lancaster, Susan Harrison] == 1
+[Hemendra Dandotiya, Mahie Gill] == 1
+[Kristen Wiig, Matt Damon] == 1
+[Baris Bagci, Mete Horozoglu] == 1
+[Ray Walston, Shirley MacLaine] == 1
+[Rachel House, Sam Neill] == 1
+[Birgitta Pettersson, Birgitta Valberg] == 1
+[Amy Adams, Rooney Mara] == 1
+[Reda Kateb, Tahar Rahim] == 1
+[Ginnifer Goodwin, Jared Bush] == 1
+[Ege Tanman, Hümeyra] == 1
+[Brian Howe, Jaden Smith] == 1
+[Irene Papas, Johnny Sekka] == 1
+[Carl Weathers, Sylvester Stallone] == 1
+[Arnold Schwarzenegger, Michael Biehn] == 1
+[Priyanka Chopra, Saurabh Shukla] == 1
+[Abhay Deol, Mahie Gill] == 1
+[Jake Johnson, Rodney Rothman] == 1
+[John Wray, Louis Wolheim] == 1
+[Maxim Gaudette, Mustafa Kamel] == 1
+[Chiwetel Ejiofor, Michael Fassbender] == 1
+[Radhika Apte, Tabu] == 1
+[Hyuk-ho Kwon, Jin-mo Joo] == 1
+[Frank Overton, Gregory Peck] == 1
+[James Stewart, Wendell Corey] == 1
+[Jack Carson, Priscilla Lane] == 1
+[Celile Toyon Uysal, Nisa Sofiya Aksongur] == 1
+[Abdel Ahmed Ghili, Vincent Cassel] == 1
+[Abdel Ahmed Ghili, Saïd Taghmaoui] == 1
+[Benjamin Bratt, Enrique Castillo] == 1
+[Bruce Willis, Samuel L. Jackson] == 1
+[Kazunari Ninomiya, Ryô Kase] == 1
+[Jack Nicholson, Peter Brocco] == 1
+[Akihiro Miwa, Takuya Kimura] == 1
+[Eijirô Tôno, Tatsuya Nakadai] == 1
+[Hyeong-jin Kong, Won Bin] == 1
+[Ewan McGregor, Jessica Lange] == 1
+[Jason Robards, Philip Seymour Hoffman] == 1
+[Elizabeth Taylor, Paul Newman] == 1
+[Christopher Plummer, Ed Harris] == 1
+[Emma Stone, Rosemarie DeWitt] == 1
+[Song Wok-suk, Tae-Hyun Cha] == 1
+[Melvyn Douglas, Shirley MacLaine] == 1
+[Prateik, Shraddha Kapoor] == 1
+[Ping Lam Siu, Tung Cho 'Joe' Cheung] == 1
+[Claire Rushbrook, Timothy Spall] == 1
+[Jake Johnson, Shameik Moore] == 1
+[Ben Kingsley, Emily Mortimer] == 1
+[Ciarán Hinds, Daniel Day-Lewis] == 1
+[Bruce Willis, Olivia Williams] == 1
+[George Cukor, Sam Wood] == 1
+[Edmond O'Brien, Margaret Wycherly] == 1
+[Annalise Basso, George MacKay] == 1
+[Leonardo DiCaprio, Margot Robbie] == 1
+[James McAvoy, Patrick Stewart] == 1
+[Robert De Niro, Zazie Beetz] == 1
+[Irène Jacob, Jean-Louis Trintignant] == 1
+[Jackie Gleason, Piper Laurie] == 1
+[Muhammet Uzuner, Yilmaz Erdogan] == 1
+[Sally Field, Tom Hanks] == 1
+[François Cluzet, Omar Sy] == 1
+[Ozan Güven, Özge Özberk] == 1
+[Justine Waddell, Kim Uylenbroek] == 1
+[Daisy Ridley, Domhnall Gleeson] == 1
+[Jared Leto, Jennifer Connelly] == 1
+[Haya Harareet, Stephen Boyd] == 1
+[Lasse Fogelstrøm, Mads Mikkelsen] == 1
+[Aidan Gillen, Maria Doyle Kennedy] == 1
+[Shima Iwashita, Tatsuya Nakadai] == 1
+[Aleksey Kravchenko, Liubomiras Laucevicius] == 1
+[Demet Akbag, Yilmaz Erdogan] == 1
+[Sterling Hayden, Vince Edwards] == 1
+[Ariane Labed, Ethan Hawke] == 1
+[Patrick Magee, Ryan O'Neal] == 1
+[Marisa Tomei, Mark Margolis] == 1
+[Halvar Björk, Lena Nyman] == 1
+[Luàna Bajrami, Noémie Merlant] == 1
+[Fernanda Montenegro, Soia Lira] == 1
+[Daniel Craig, Jeffrey Wright] == 1
+[David James, Nathalie Boltt] == 1
+[Mone Kamishiraishi, Ryûnosuke Kamiki] == 1
+[Hardy Krüger, Ryan O'Neal] == 1
+[Edward Asner, John Ratzenberger] == 1
+[Adil Hussain, Suraj Sharma] == 1
+[Jamie Foxx, Kerry Washington] == 1
+[John Musker, Linda Larkin] == 1
+[Benicio Del Toro, Dennis Farina] == 1
+[Bajram Severdzan, Florijan Ajdini] == 1
+[Isa Danieli, Philippe Noiret] == 1
+[Charlton Heston, Jack Hawkins] == 1
+[Christopher Plummer, Julie Andrews] == 1
+[Hugh Jackman, Ian McKellen] == 1
+[Ben Kingsley, Ralph Fiennes] == 1
+[Keiko Tsushima, Takashi Shimura] == 1
+[Jacob Tremblay, Owen Wilson] == 1
+[Albert Brooks, Cybill Shepherd] == 1
+[Grace Kelly, Ray Milland] == 1
+[John Goodman, Julianne Moore] == 1
+[Enrique Rambal, Jacqueline Andere] == 1
+[Kate Winslet, Tom Wilkinson] == 1
+[Pruitt Taylor Vince, Tim Roth] == 1
+[Ismail Hacioglu, Çetin Tekindor] == 1
+[Demet Akbag, Haluk Bilginer] == 1
+[Harrison Ford, John Rhys-Davies] == 1
+[Sanjana Sanghi, Saswata Chatterjee] == 1
+[Ajay Devgn, Shriya Saran] == 1
+[Madhavan, Shraddha Srinath] == 1
+[Tatsuya Nakadai, Yutaka Sada] == 1
+[Eric Idle, Graham Chapman] == 1
+[Brie Larson, Kaitlyn Dever] == 1
+[Paige O'Hara, Robby Benson] == 1
+[Pablo Rago, Soledad Villamil] == 1
+[Christine Hargreaves, James Laurenson] == 1
+[Mark Ruffalo, Tom Hiddleston] == 1
+[Yuriko Ishida, Yôji Matsuda] == 1
+[Gregory Peck, John Megna] == 1
+[Angus Macfadyen, Patrick McGoohan] == 1
+[Ariadna Gil, Sergi López] == 1
+[Anthony Quinn, Giulietta Masina] == 1
+[Mel Gibson, Sophie Marceau] == 1
+[Simone Signoret, Véra Clouzot] == 1
+[Don Cheadle, Joaquin Phoenix] == 1
+[Anne Le Ny, Omar Sy] == 1
+[Madhavan, Vijay Sethupathi] == 1
+[Isuzu Yamada, Minoru Chiaki] == 1
+[Aldo Giuffrè, Clint Eastwood] == 1
+[Ben Hardy, Lucy Boynton] == 1
+[Claudia Cardinale, Sandra Milo] == 1
+[Aamir Khan, Amole Gupte] == 1
+[Kirti Kulhari, Taapsee Pannu] == 1
+[Frédérique Feder, Irène Jacob] == 1
+[Chazz Palminteri, Stephen Baldwin] == 1
+[Mark Ruffalo, Michael Keaton] == 1
+[Liev Schreiber, Rachel McAdams] == 1
+[Donnie Yen, Simon Yam] == 1
+[Friedrich Feher, Lil Dagover] == 1
+[Claire Maurier, Jean-Pierre Léaud] == 1
+[Alexandre Tharaud, Isabelle Huppert] == 1
+[Daniel Day-Lewis, Martin Stringer] == 1
+[Jack Hawkins, Sessue Hayakawa] == 1
+[George Segal, Sandy Dennis] == 1
+[Harry Myers, Virginia Cherrill] == 1
+[Charles Chaplin, Edna Purviance] == 1
+[Anupam Kher, Manoj Bajpayee] == 1
+[Ethan Coen, Frances McDormand] == 1
+[Alec Cawthorne, John Matthews] == 1
+[Jacqueline Andere, José Baviera] == 1
+[Harrison Ford, Paul Freeman] == 1
+[Kazunari Ninomiya, Tsuyoshi Ihara] == 1
+[Renée Zellweger, Russell Crowe] == 1
+[Farhan Akhtar, Katrina Kaif] == 1
+[Inge Landgut, Peter Lorre] == 1
+[Boluwatife Treasure Bankole, Kawsar Al Haddad] == 1
+[Aparna Balamurali, Madhavan] == 1
+[Jinpachi Nezu, Ken'ichi Hagiwara] == 1
+[Conrad Veidt, Lil Dagover] == 1
+[Charles Laughton, Elsa Lanchester] == 1
+[Ben Burtt, Jeff Garlin] == 1
+[Arthur O'Connell, Lee Remick] == 1
+[Rana Daggubati, Tamannaah Bhatia] == 1
+[Hilary Swank, Jay Baruchel] == 1
+[Leonardo DiCaprio, Tom Hanks] == 1
+[Jaya Bachchan, Saif Ali Khan] == 1
+[Bill Paxton, Emily Blunt] == 1
+[Lorella Cravotta, Mathieu Kassovitz] == 1
+[Natalie Portman, Vincent Cassel] == 1
+[Alexandra Maria Lara, Bruno Ganz] == 1
+[John Cassavetes, Sidney Blackmer] == 1
+[Eleanor Parker, Richard Haydn] == 1
+[Asha Sharath, Mohanlal] == 1
+[Kazunari Ninomiya, Ken Watanabe] == 1
+[Forest Whitaker, Jeremy Renner] == 1
+[Hugo Weaving, Rupert Graves] == 1
+[Rutger Hauer, Sean Young] == 1
+[Ivan Dobronravov, Konstantin Lavronenko] == 1
+[Donatas Banionis, Vladislav Dvorzhetskiy] == 1
+[Gary Oldman, Natalie Portman] == 1
+[Frank Overton, John Megna] == 1
+[Cathy Moriarty, Robert De Niro] == 1
+[Akshay Kumar, Mithun Chakraborty] == 1
+[Elsa Lanchester, Tyrone Power] == 1
+[Ka Tung Lam, Simon Yam] == 1
+[Nakul Roshan Sahdev, Ranveer Singh] == 1
+[Ben Kingsley, Roshan Seth] == 1
+[Norma Crane, Topol] == 1
+[Charlton Heston, Haya Harareet] == 1
+[Sakshi Tanwar, Sanya Malhotra] == 1
+[Kamatari Fujiwara, Toshirô Mifune] == 1
+[James Stewart, Lee Remick] == 1
+[Charlton Heston, Roddy McDowall] == 1
+[Anand Gandhi, Sohum Shah] == 1
+[Morgan Freeman, Tim Robbins] == 1
+[Gene Kelly, Spencer Tracy] == 1
+[Adrian Molina, Gael García Bernal] == 1
+[Chieko Baishô, Tatsuya Gashûin] == 1
+[Giorgio Cantarini, Roberto Benigni] == 1
+[Nicole Kidman, Rooney Mara] == 1
+[Joaquin Phoenix, Oliver Reed] == 1
+[James Earl Jones, Jeremy Irons] == 1
+[Jean-Louis Trintignant, Stefania Sandrelli] == 1
+[Tom Skerritt, Veronica Cartwright] == 1
+[Kang Hye-jeong, Yoo Ji-Tae] == 1
+[Maureen O'Sullivan, Nat Pendleton] == 1
+[Dustin Hoffman, Valeria Golino] == 1
+[Damian Chapa, Enrique Castillo] == 1
+[Eli Marienthal, Vin Diesel] == 1
+[Audrey Tautou, Lorella Cravotta] == 1
+[John Musker, Scott Weinger] == 1
+[Altan Erkekli, Ömer Faruk Sorak] == 1
+[James Caan, Marlon Brando] == 1
+[Mitsuo Iwata, Tesshô Genda] == 1
+[Ana de Armas, Harrison Ford] == 1
+[Linda Blair, Max von Sydow] == 1
+[Lorraine Gary, Roy Scheider] == 1
+[Belén Rueda, Mabel Rivera] == 1
+[Emile Hirsch, Marcia Gay Harden] == 1
+[Nawazuddin Siddiqui, Salman Khan] == 1
+[Brendan Gleeson, Elizabeth Berrington] == 1
+[Prabhas, Sathyaraj] == 1
+[Charles Durning, Robert Redford] == 1
+[Ingrid Thulin, Liv Ullmann] == 1
+[Bill Nunn, Pruitt Taylor Vince] == 1
+[Lee J. Cobb, Rod Steiger] == 1
+[Marius Goring, Moira Shearer] == 1
+[Chris Sarandon, William Hickey] == 1
+[Darsheel Safary, Tisca Chopra] == 1
+[Ariadna Gil, Ivana Baquero] == 1
+[Amitabh Bachchan, Andrea Tariang] == 1
+[Marlon Brando, Rod Steiger] == 1
+[Payman Maadi, Shahab Hosseini] == 1
+[Humphrey Bogart, Mary Astor] == 1
+[Noriko Hidaka, Shigesato Itoi] == 1
+[Amitabh Bachchan, Taapsee Pannu] == 1
+[Rica Matsumoto, Shinpachi Tsuji] == 1
+[Colin Firth, Dean-Charles Chapman] == 1
+[Bodil Rosing, Janet Gaynor] == 1
+[Aras Bulut Iynemli, Celile Toyon Uysal] == 1
+[Andrea Eckert, Hanno Pöschl] == 1
+[Aoi Miyazaki, Haru Kuroki] == 1
+[Christopher Walken, John Cazale] == 1
+[Guy Pearce, Kevin Spacey] == 1
+[F. Murray Abraham, Roy Dotrice] == 1
+[Jim Varney, Tim Allen] == 1
+[Adam Baldwin, Matthew Modine] == 1
+[Toshirô Mifune, Yukiko Shimazaki] == 1
+[Ewen Bremner, Kevin McKidd] == 1
+[Jason Flemyng, Nick Moran] == 1
+[Brad Pitt, Bruce Willis] == 1
+[Art Malik, Farhan Akhtar] == 1
+[Boman Irani, Vidya Balan] == 1
+[Chris Hemsworth, Joe Russo] == 1
+[Henrik Dahl, Kåre Hedebrant] == 1
+[Albert Finney, Billy Crudup] == 1
+[Catherine Deneuve, Peter Stormare] == 1
+[Jan Sterling, Porter Hall] == 1
+[Darío Grandinetti, Mónica Villa] == 1
+[Brian Howe, Thandie Newton] == 1
+[Aamir Khan, Sanjay Dutt] == 1
+[Geoffrey Rush, Keira Knightley] == 1
+[Daniel Radcliffe, Rupert Grint] == 1
+[Fikret Kuskan, Hümeyra] == 1
+[Alec Guinness, Anthony Quinn] == 1
+[Akshay Kumar, Tabu] == 1
+[Javier Bardem, Josh Brolin] == 1
+[Joseph Schildkraut, Margaret Sullavan] == 1
+[Aldo Silvani, Richard Basehart] == 1
+[Shahid Kapoor, Tabu] == 1
+[Mila Parély, Paulette Dubost] == 1
+[Giorgio Cantarini, Giustino Durano] == 1
+[Choi Min-sik, Kim Byeong-Ok] == 1
+[Anna Karina, Sady Rebbot] == 1
+[Donatas Banionis, Natalya Bondarchuk] == 1
+[Masahiro Motoki, Tsutomu Yamazaki] == 1
+[Bahare Seddiqi, Mohammad Amir Naji] == 1
+[Farhan Akhtar, Sonam Kapoor] == 1
+[Dexter Fletcher, Nick Moran] == 1
+[Djimon Hounsou, Leonardo DiCaprio] == 1
+[Charley Grapewin, Henry Fonda] == 1
+[Sanjana Sanghi, Sushant Singh Rajput] == 1
+[Eric Idle, John Cleese] == 1
+[George O'Brien, Janet Gaynor] == 1
+[Jack Nicholson, Scatman Crothers] == 1
+[Don Cheadle, Xolani Mali] == 1
+[Chris Evans, Joe Russo] == 1
+[Gary Lockwood, William Sylvester] == 1
+[Andie MacDowell, Chris Elliott] == 1
+[Frances McDormand, Woody Harrelson] == 1
+[George C. Scott, Paul Newman] == 1
+[Carole Lombard, Robert Stack] == 1
+[Clark Gable, Sam Wood] == 1
+[André Berley, Maria Falconetti] == 1
+[Christopher Plummer, Richard Haydn] == 1
+[Al Pacino, Joe Pesci] == 1
+[Meat Loaf, Zach Grenier] == 1
+[Allen Leech, Keira Knightley] == 1
+[Burt Young, Carl Weathers] == 1
+[Farley Granger, James Stewart] == 1
+[Anne Hathaway, Mackenzie Foy] == 1
+[John Hurt, Sigourney Weaver] == 1
+[Audrey Tautou, Mathieu Kassovitz] == 1
+[Edward Furlong, Linda Hamilton] == 1
+[Golshifteh Farahani, Merila Zare'i] == 1
+[Mathieu Amalric, Ralph Fiennes] == 1
+[Farida Jalal, Shah Rukh Khan] == 1
+[Jonah Hill, Margot Robbie] == 1
+[James Gleason, Lillian Gish] == 1
+[Alexandru Potocean, Laura Vasiliu] == 1
+[Bob Gunton, Tim Robbins] == 1
+[Amira Casar, Timothée Chalamet] == 1
+[Mahesh Manjrekar, Mithun Chakraborty] == 1
+[Mary McDonnell, Rodney A. Grant] == 1
+[Chris Sarandon, Mandy Patinkin] == 1
+[Leonard Frey, Molly Picon] == 1
+[Tom Hardy, Zoë Kravitz] == 1
+[Isuzu Yamada, Takashi Shimura] == 1
+[Chika Sakamoto, Noriko Hidaka] == 1
+[Carol Kane, Woody Allen] == 1
+[James Stewart, John Dall] == 1
+[Elmo Nüganen, Giorgi Nakashidze] == 1
+[Benedict Cumberbatch, Keira Knightley] == 1
+[John Fiedler, Martin Balsam] == 1
+[Marlon Brando, Martin Sheen] == 1
+[Bee Vang, Christopher Carley] == 1
+[Hugh Jackman, Jake Gyllenhaal] == 1
+[Bee Vang, Clint Eastwood] == 1
+[Mayu Matsuoka, Sakura Andô] == 1
+[Maribel Verdú, Sergi López] == 1
+[Alfred Abel, Gustav Fröhlich] == 1
+[Geraldine Chaplin, Omar Sharif] == 1
+[Carrie-Anne Moss, Guy Pearce] == 1
+[Siddharth, Soha Ali Khan] == 1
+[Brad Garrett, Patton Oswalt] == 1
+[Clifton Webb, Dana Andrews] == 1
+[Jim Varney, Tom Hanks] == 1
+[Angus Macfadyen, Mel Gibson] == 1
+[Bengt Ekerot, Gunnar Björnstrand] == 1
+[Aoi Yûki, Miyu Irino] == 1
+[Ki-duk Kim, Yeong-su Oh] == 1
+[Jean Reno, Natalie Portman] == 1
+[Kirin Kiki, Mayu Matsuoka] == 1
+[Carl Miller, Edna Purviance] == 1
+[Emily Mortimer, Leonardo DiCaprio] == 1
+[Bob Geldof, Eleanor David] == 1
+[Caitriona Balfe, Jon Bernthal] == 1
+[Akshay Kumar, Anupam Kher] == 1
+[Jingwu Ma, Saifei He] == 1
+[Paul Giamatti, Renée Zellweger] == 1
+[Paresh Rawal, Sunil Shetty] == 1
+[Anushka Sharma, Boman Irani] == 1
+[Anne Bancroft, Katharine Ross] == 1
+[Sigourney Weaver, Veronica Cartwright] == 1
+[James Stewart, Tom Helmore] == 1
+[George MacKay, Viggo Mortensen] == 1
+[Barry Humphries, Philip Seymour Hoffman] == 1
+[Anouk Aimée, Sandra Milo] == 1
+[Catinca Untaru, Justine Waddell] == 1
+[Jon Voight, Val Kilmer] == 1
+[Brad Pitt, Meat Loaf] == 1
+[John Cazale, Sully Boyar] == 1
+[Shahab Hosseini, Taraneh Alidoosti] == 1
+[Harriet Andersson, Nicole Kidman] == 1
+[Jane Galloway Heitz, Richard Farnsworth] == 1
+[Diane Kruger, Eli Roth] == 1
+[Charles Bronson, Henry Fonda] == 1
+[Emma Stone, Viola Davis] == 1
+[Arthur O'Connell, James Stewart] == 1
+[Henning Moritzen, Thomas Bo Larsen] == 1
+[Tony Chiu-Wai Leung, Tung Cho 'Joe' Cheung] == 1
+[Brad Garrett, Lou Romano] == 1
+[Adel Bencherif, Tahar Rahim] == 1
+[Kirk Douglas, Ralph Meeker] == 1
+[Harry Connick Jr., Vin Diesel] == 1
+[Farhan Akhtar, Pawan Malhotra] == 1
+[John Hillerman, Ryan O'Neal] == 1
+[John Matthews, Michael Caine] == 1
+[Gene Wilder, Marty Feldman] == 1
+[Chris Sanders, Christopher Mintz-Plasse] == 1
+[Julie Delpy, Vernon Dobtcheff] == 1
+[Ege Tanman, Çetin Tekindor] == 1
+[Filipp Yankovskiy, Margarita Terekhova] == 1
+[Ingrid Thulin, Victor Sjöström] == 1
+[Mila Kunis, Natalie Portman] == 1
+[Daniel Radcliffe, Emma Watson] == 1
+[Jim Carrey, Noah Emmerich] == 1
+[Rohini Hattangadi, Roshan Seth] == 1
+[J.K. Simmons, Melissa Benoist] == 1
+[Charles Vanel, Yves Montand] == 1
+[Shahid Kapoor, Shraddha Kapoor] == 1
+[Charles Chaplin, Harry Crocker] == 1
+[Richa Chadha, Tigmanshu Dhulia] == 1
+[Gerald R. Molen, Tom Cruise] == 1
+[Francine Racette, Gaspard Manesse] == 1
+[Evgeniy Zharikov, Valentin Zubkov] == 1
+[Joe Pesci, Ray Liotta] == 1
+[Louise Lemoine Torrès, Vernon Dobtcheff] == 1
+[Jan Josef Liefers, Til Schweiger] == 1
+[Daisuke Ryû, Tatsuya Nakadai] == 1
+[Ana de Armas, Daniel Craig] == 1
+[Mickey Rourke, Robert Rodriguez] == 1
+[Harvey Keitel, Joe Pesci] == 1
+[James Stewart, Margaret Sullavan] == 1
+[Dita Parlo, Pierre Fresnay] == 1
+[Ossie Davis, Ruby Dee] == 1
+[Jennifer Connelly, Marlon Wayans] == 1
+[Janet Leigh, Orson Welles] == 1
+[Burt Lancaster, Martin Milner] == 1
+[Kangana Ranaut, Lisa Haydon] == 1
+[Frances Conroy, Zazie Beetz] == 1
+[Alexandra Maria Lara, Olivia Wilde] == 1
+[Diane Keaton, Robert De Niro] == 1
+[Akemi Yamaguchi, Ayano Shiraishi] == 1
+[Herbert Grönemeyer, Klaus Wennemann] == 1
+[Edna Purviance, Jackie Coogan] == 1
+[Edward Norton, Meat Loaf] == 1
+[Kevin Spacey, Russell Crowe] == 1
+[Carrie-Anne Moss, Joe Pantoliano] == 1
+[Alec Guinness, Dennis Price] == 1
+[Jan Pinkava, Lou Romano] == 1
+[Gene Tierney, Vincent Price] == 1
+[Jeffrey Ho, Lisa Haydon] == 1
+[Ben Burtt, Fred Willard] == 1
+[Jan Josef Liefers, Moritz Bleibtreu] == 1
+[Henry Fonda, Martin Balsam] == 1
+[Anthony Hopkins, John Gielgud] == 1
+[Otto Preminger, William Holden] == 1
+[Angie Dickinson, Dean Martin] == 1
+[David Silverman, Lee Unkrich] == 1
+[Preity Zinta, Shah Rukh Khan] == 1
+[Frank Lovejoy, Gloria Grahame] == 1
+[Emilio Echevarría, Álvaro Guerrero] == 1
+[Edward Burns, Tom Sizemore] == 1
+[Allen Leech, Matthew Goode] == 1
+[Hugh Jackman, Viola Davis] == 1
+[Brendan Gleeson, Colin Farrell] == 1
+[James Stewart, Thomas Mitchell] == 1
+[Edward Furlong, Edward Norton] == 1
+[Barbara Bel Geddes, Tom Helmore] == 1
+[Joaquin Phoenix, Scarlett Johansson] == 1
+[Jason Bateman, Rich Moore] == 1
+[Gary Oldman, Walter Matthau] == 1
+[Emma Stone, J.K. Simmons] == 1
+[Catinca Untaru, Kim Uylenbroek] == 1
+[Amitabh Bachchan, Sanjeev Kumar] == 1
+[Alan Mak, Tony Chiu-Wai Leung] == 1
+[Birgitta Pettersson, Max von Sydow] == 1
+[Mila Parély, Nora Gregor] == 1
+[Mona Singh, Sharman Joshi] == 1
+[Gerry Robert Byrne, Tom Wilkinson] == 1
+[Aamir Khan, Akshaye Khanna] == 1
+[Buster Keaton, Buster Keaton] == 1
+[Eduard Abalov, Valentin Zubkov] == 1
+[Charles Bronson, Steve McQueen] == 1
+[Barbara Bel Geddes, Kim Novak] == 1
+[Carl Möhner, Jean Servais] == 1
+[Morena Baccarin, T.J. Miller] == 1
+[Masaaki Ôkura, Rica Matsumoto] == 1
+[Ferdia Walsh-Peelo, Maria Doyle Kennedy] == 1
+[Emile Hirsch, Vince Vaughn] == 1
+[Melissa Benoist, Paul Reiser] == 1
+[Iko Uwais, Oka Antara] == 1
+[Crispin Glover, Michael J. Fox] == 1
+[Caio Junqueira, Milhem Cortaz] == 1
+[Scarlett Johansson, Thomasin McKenzie] == 1
+[Ezra Miller, Paul Rudd] == 1
+[Sagarika Ghatge, Shilpa Shukla] == 1
+[Carrie-Anne Moss, Keanu Reeves] == 1
+[Inge Landgut, Otto Wernicke] == 1
+[Andrea Eckert, Julie Delpy] == 1
+[J.K. Simmons, Rosemarie DeWitt] == 1
+[Jon Voight, Robert De Niro] == 1
+[Jack Lemmon, Ray Walston] == 1
+[Keenan Wynn, Sterling Hayden] == 1
+[Louise Fletcher, Michael Berryman] == 1
+[Sharman Joshi, Soha Ali Khan] == 1
+[Claudia Cardinale, Miguel Ángel Fuentes] == 1
+[Alec Guinness, Peter O'Toole] == 1
+[Humphrey Bogart, Ingrid Bergman] == 1
+[Guy Pearce, Russell Crowe] == 1
+[Kim Sang-kyung, Roe-ha Kim] == 1
+[Claudia Cardinale, Marcello Mastroianni] == 1
+[Don Rickles, Tim Allen] == 1
+[Clifton Webb, Vincent Price] == 1
+[Dorian Gray, François Périer] == 1
+[Bruce Willis, Madeleine Stowe] == 1
+[Boluwatife Treasure Bankole, Yordanos Shiferaw] == 1
+[Rajesh Khanna, Sumita Sanyal] == 1
+[Hitoshi Takagi, Shigesato Itoi] == 1
+[Mark Wahlberg, Matt Damon] == 1
+[Benjamin Bratt, Jesse Borrego] == 1
+[Anthony Hopkins, Lawrence A. Bonney] == 1
+[Marlene Dietrich, Tyrone Power] == 1
+[Brigitte Lin, Takeshi Kaneshiro] == 1
+[Lee J. Cobb, Linda Blair] == 1
+[Kang Hye-jeong, Kim Byeong-Ok] == 1
+[Buster Keaton, Kathryn McGuire] == 1
+[Ben Affleck, Neil Patrick Harris] == 1
+[Keir Dullea, William Sylvester] == 1
+[Anthony Perkins, John Gavin] == 1
+[John Wray, Lew Ayres] == 1
+[Jeff Bridges, John Goodman] == 1
+[Domhnall Gleeson, Oscar Isaac] == 1
+[Carl Möhner, Robert Manuel] == 1
+[Jackie Gleason, Paul Newman] == 1
+[Ethan Coen, Julianne Moore] == 1
+[Kang-ho Song, Kim Sang-kyung] == 1
+[Alec Cawthorne, Laurence Olivier] == 1
+[Gunnar Björnstrand, Margaretha Krook] == 1
+[Mackenzie Foy, Matthew McConaughey] == 1
+[Tsutomu Tatsumi, Yoshiko Shinohara] == 1
+[Morgan Freeman, William Sadler] == 1
+[Robert Downey Jr., Scarlett Johansson] == 1
+[Mone Kamishiraishi, Ryô Narita] == 1
+[Dexter Fletcher, Jason Flemyng] == 1
+[Danny Elfman, William Hickey] == 1
+[Brigitte Lin, Faye Wong] == 1
+[Fernanda Montenegro, Marília Pêra] == 1
+[Lorraine Bracco, Robert De Niro] == 1
+[Elijah Smith, Ethan Hawke] == 1
+[Emeric Pressburger, Moira Shearer] == 1
+[Carl Weathers, Talia Shire] == 1
+[Arnold Lucy, John Wray] == 1
+[Bajram Severdzan, Srdjan 'Zika' Todorovic] == 1
+[Julie Andrews, Richard Haydn] == 1
+[Marcel Dalio, Mila Parély] == 1
+[Marcia Gay Harden, Vince Vaughn] == 1
+[Kishori Ballal, Shah Rukh Khan] == 1
+[Annika Wedderkopp, Lasse Fogelstrøm] == 1
+[Haluk Bilginer, Melisa Sözen] == 1
+[Madhavan, Suriya] == 1
+[Geoffrey Rush, Orlando Bloom] == 1
+[Katharine Ross, Strother Martin] == 1
+[Gayatri Joshi, Smit Sheth] == 1
+[Enrique Rambal, José Baviera] == 1
+[Bonnie Hunt, David Morse] == 1
+[Malcolm McDowell, Michael Bates] == 1
+[Eric Bana, Toni Collette] == 1
+[Charles Chaplin, Florence Lee] == 1
+[Jason Cope, Nathalie Boltt] == 1
+[Brad Pitt, Edward Norton] == 1
+[Faye Wong, Tony Chiu-Wai Leung] == 1
+[Ingrid Bergman, Lena Nyman] == 1
+[Nikolay Grinko, Nikolay Sergeev] == 1
+[Niels Arestrup, Tahar Rahim] == 1
+[Archana Jois, Ramachandra Raju] == 1
+[Konkona Sen Sharma, Sohum Shah] == 1
+[Christopher Walken, Tom Hanks] == 1
+[Izabela Vidovic, Julia Roberts] == 1
+[Ciarán Hinds, Colin Farrell] == 1
+[Alfred Abel, Rudolf Klein-Rogge] == 1
+[José Lewgoy, Klaus Kinski] == 1
+[Farhan Akhtar, Hrithik Roshan] == 1
+[Nicoletta Braschi, Roberto Benigni] == 1
+[Chieko Higashiyama, Sô Yamamura] == 1
+[Elizabeth Berridge, F. Murray Abraham] == 1
+[Burl Ives, Jack Carson] == 1
+[Karisma Kapoor, Salman Khan] == 1
+[Ewen Bremner, Jonny Lee Miller] == 1
+[Ed Harris, Jennifer Connelly] == 1
+[George C. Scott, Keenan Wynn] == 1
+[In-mun Kim, Song Wok-suk] == 1
+[Ethan Hawke, Patricia Arquette] == 1
+[Leslie Odom Jr., Lin-Manuel Miranda] == 1
+[Harrison Ford, Rutger Hauer] == 1
+[Jim Carrey, Kate Winslet] == 1
+[Peter Finch, Robert Duvall] == 1
+[Amira Casar, Michael Stuhlbarg] == 1
+[Amrish Puri, Shah Rukh Khan] == 1
+[Linda Hamilton, Robert Patrick] == 1
+[Nancy Olson, William Holden] == 1
+[Frank Overton, Rosemary Murphy] == 1
+[Ana Wagener, Jose Coronado] == 1
+[John Wayne, Ricky Nelson] == 1
+[Aoi Yûki, Saori Hayami] == 1
+[Kareena Kapoor, Tarun Arora] == 1
+[Felix Bressart, Jack Benny] == 1
+[Kevin Spacey, Sam Rockwell] == 1
+[Amrish Puri, Farida Jalal] == 1
+[Kirin Kiki, Lily Franky] == 1
+[Karl Malden, Rod Steiger] == 1
+[Madeline Kahn, Marty Feldman] == 1
+[Emily Blunt, Tom Cruise] == 1
+[Akshay Kumar, Taapsee Pannu] == 1
+[Lasse Fogelstrøm, Thomas Bo Larsen] == 1
+[John Williams, Robert Cummings] == 1
+[Joyce Carey, Stanley Holloway] == 1
+[Richard Gere, Sarah Roemer] == 1
+[Charles Bronson, Jason Robards] == 1
+[Ramachandra Raju, Srinidhi Shetty] == 1
+[Madhavan, Paresh Rawal] == 1
+[Richard Edson, Ruby Dee] == 1
+[Janet Leigh, John Gavin] == 1
+[Cary-Hiroyuki Tagawa, Sarah Roemer] == 1
+[J.K. Simmons, Paul Reiser] == 1
+[Bill Hader, Lewis Black] == 1
+[Mads Mikkelsen, Thomas Bo Larsen] == 1
+[Giorgi Nakashidze, Lembit Ulfsak] == 1
+[Mohit Raina, Paresh Rawal] == 1
+[Kenshô Ono, Saori Hayami] == 1
+[Scarlett Johansson, Taika Waititi] == 1
+[Mathieu Kassovitz, Rufus] == 1
+[Albert Brooks, Jodie Foster] == 1
+[Colin Farrell, Elizabeth Berrington] == 1
+[Elizabeth McGovern, Robert De Niro] == 1
+[Ethan Hawke, Seamus Davey-Fitzpatrick] == 1
+[Mitsuo Iwata, Nozomu Sasaki] == 1
+[Gustav Fröhlich, Rudolf Klein-Rogge] == 1
+[Neil Patrick Harris, Tyler Perry] == 1
+[Kazuya Tsurumaki, Megumi Hayashibara] == 1
+[Jay C. Flippen, Vince Edwards] == 1
+[Charles Chaplin, Tiny Sandford] == 1
+[Bodil Rosing, George O'Brien] == 1
+[Rooney Mara, Scarlett Johansson] == 1
+[Jennifer Morrison, Nick Nolte] == 1
+[Demet Akbag, Ömer Faruk Sorak] == 1
+[John Billingsley, Tony Todd] == 1
+[Anne Hathaway, Gary Oldman] == 1
+[Iemasa Kayumi, Kôichi Yamadera] == 1
+[Chris Hemsworth, Daniel Brühl] == 1
+[Ewan McGregor, Jonny Lee Miller] == 1
+[Paul Meurisse, Simone Signoret] == 1
+[Taika Waititi, Thomasin McKenzie] == 1
+[Malcolm McDowell, Warren Clarke] == 1
+[Kevin Spacey, Wes Bentley] == 1
+[Buster Keaton, Erwin Connelly] == 1
+[James Stewart, Joseph Schildkraut] == 1
+[Kevin Costner, Walter Matthau] == 1
+[Shraddha Kapoor, Sushant Singh Rajput] == 1
+[Irrfan Khan, Neeraj Kabi] == 1
+[Kevin Costner, Rodney A. Grant] == 1
+[Ciarán Hinds, Martin Stringer] == 1
+[Kasi Lemmons, Lawrence A. Bonney] == 1
+[Barry Humphries, Eric Bana] == 1
+[Boyd Holbrook, Patrick Stewart] == 1
+[Giulietta Masina, Richard Basehart] == 1
+[Art Malik, Pawan Malhotra] == 1
+[Linda Hamilton, Paul Winfield] == 1
+[James Cromwell, Jean Dujardin] == 1
+[Brendan Gleeson, Lisa Hannigan] == 1
+[Hayley Squires, Laura Obiols] == 1
+[Jack Hawkins, Stephen Boyd] == 1
+[Joseph A. Carpenter, Sissy Spacek] == 1
+[Leila Hatami, Shahab Hosseini] == 1
+[Brigitte Helm, Rudolf Klein-Rogge] == 1
+[Emilio Echevarría, Gael García Bernal] == 1
+[Melissa Benoist, Miles Teller] == 1
+[Darío Grandinetti, Diego Starosta] == 1
+[Pushkar, Vijay Sethupathi] == 1
+[Alan Rickman, Reginald VelJohnson] == 1
+[Kyôko Kagawa, Tatsuya Nakadai] == 1
+[Billy Crystal, Lee Unkrich] == 1
+[Gunnar Björnstrand, Nils Poppe] == 1
+[Eddie Albert, Gregory Peck] == 1
+[James Stewart, John Wayne] == 1
+[George MacKay, Samantha Isler] == 1
+[André Ramiro, Irandhir Santos] == 1
+[Linda Larkin, Robin Williams] == 1
+[Kim Uylenbroek, Lee Pace] == 1
+[Grace Kelly, Wendell Corey] == 1
+[Kay Kay Menon, Shahid Kapoor] == 1
+[Guy Pearce, Kim Basinger] == 1
+[Dev Patel, Nicole Kidman] == 1
+[Kay Kay Menon, Shraddha Kapoor] == 1
+[Elizabeth Berridge, Tom Hulce] == 1
+[Amy Poehler, Lewis Black] == 1
+[Anne Bancroft, Anthony Hopkins] == 1
+[Kerry Washington, Leonardo DiCaprio] == 1
+[Julia Stiles, Matt Damon] == 1
+[Liubomiras Laucevicius, Olga Mironova] == 1
+[Ellen Burstyn, Marlon Wayans] == 1
+[Neeraj Kabi, Sohum Shah] == 1
+[Anne Baxter, Bette Davis] == 1
+[Gastone Moschin, Stefania Sandrelli] == 1
+[Donna Reed, Thomas Mitchell] == 1
+[Ayushmann Khurrana, Gajraj Rao] == 1
+[Brad Pitt, Dennis Farina] == 1
+[Bibi Andersson, Ingrid Thulin] == 1
+[Richard Attenborough, Sam Neill] == 1
+[Ranveer Singh, Vijay Raaz] == 1
+[Annalise Basso, Samantha Isler] == 1
+[Arshad Warsi, Vidya Balan] == 1
+[Leonard Nimoy, Simon Pegg] == 1
+[Jan Pinkava, Patton Oswalt] == 1
+[Priscilla Lane, Raymond Massey] == 1
+[Richard Masur, Wilford Brimley] == 1
+[Ayberk Pekcan, Melisa Sözen] == 1
+[Joan Allen, Sarah Roemer] == 1
+[Julia Roberts, Owen Wilson] == 1
+[Anil Dhawan, Radhika Apte] == 1
+[Daniel Mays, Dean-Charles Chapman] == 1
+[Craig Bierko, Paul Giamatti] == 1
+[Gena Rowlands, Marjane Satrapi] == 1
+[Gian Maria Volontè, Lee Van Cleef] == 1
+[Billy Crudup, Yôji Matsuda] == 1
+[Ben Affleck, Rosamund Pike] == 1
+[Guylaine Schlumberger, Sady Rebbot] == 1
+[Marlon Brando, Vivien Leigh] == 1
+[Angie Dickinson, John Wayne] == 1
+[Clint Eastwood, Jay Baruchel] == 1
+[Connie Nielsen, Russell Crowe] == 1
+[Daniel Richter, Keir Dullea] == 1
+[Catherine Deneuve, David Morse] == 1
+[Michael Gambon, Rupert Grint] == 1
+[Brendan Gleeson, Fionnula Flanagan] == 1
+[Ed Skrein, T.J. Miller] == 1
+[Leonardo DiCaprio, Matt Damon] == 1
+[Albert Finney, Ewan McGregor] == 1
+[Nakul Roshan Sahdev, Vijay Raaz] == 1
+[Jennifer Connelly, Leonardo DiCaprio] == 1
+[Elmo Nüganen, Lembit Ulfsak] == 1
+[Raphael Fejtö, Stanislas Carré de Malberg] == 1
+[Marlon Brando, Robert Duvall] == 1
+[Junko Iwao, Shinpachi Tsuji] == 1
+[Donna Reed, Lionel Barrymore] == 1
+[Danny Lloyd, Jack Nicholson] == 1
+[Gloria Swanson, William Holden] == 1
+[Frances McDormand, Sam Rockwell] == 1
+[Robin Wright, Sally Field] == 1
+[Florence Lee, Harry Myers] == 1
+[David Lee Smith, Tony Todd] == 1
+[Aleksandr Antonov, Vladimir Barskiy] == 1
+[J.T. Walsh, John Ritter] == 1
+[James Earl Jones, Matthew Broderick] == 1
+[Ben Affleck, Matt Damon] == 1
+[Sener Sen, Sermin Hürmeriç] == 1
+[Irrfan Khan, Rajesh Abhay] == 1
+[Alexandra Maria Lara, Ulrich Matthes] == 1
+[Edward Arnold, James Stewart] == 1
+[Fred MacMurray, Ray Walston] == 1
+[Ethan Hawke, Hanno Pöschl] == 1
+[Giorgi Nakashidze, Misha Meskhi] == 1
+[Jack Warden, Peter Sellers] == 1
+[Angie Dickinson, Ricky Nelson] == 1
+[Jake Gyllenhaal, Melissa Leo] == 1
+[James Mason, Jessie Royce Landis] == 1
+[Hayley Squires, Sharon Percy] == 1
+[Amira Casar, Armie Hammer] == 1
+[Hisako Kyôda, Sumi Shimamoto] == 1
+[Suraj Sharma, Tabu] == 1
+[Gary Sinise, Sally Field] == 1
+[Branka Katic, Florijan Ajdini] == 1
+[Anne Bancroft, John Gielgud] == 1
+[Martin Stringer, Paul Dano] == 1
+[Jack Lemmon, Tony Curtis] == 1
+[Jeffrey Wright, Judi Dench] == 1
+[John Hillerman, Tatum O'Neal] == 1
+[Kirin Kiki, Sakura Andô] == 1
+[Elijah Smith, Patricia Arquette] == 1
+[Henry Bergman, Tom Murray] == 1
+[Miyu Irino, Saori Hayami] == 1
+[Ian McKellen, Patrick Stewart] == 1
+[Bibi Andersson, Liv Ullmann] == 1
+[Marilyn Monroe, Tony Curtis] == 1
+[Prabhas, Ramya Krishnan] == 1
+[Chieko Baishô, Takuya Kimura] == 1
+[Ewan McGregor, Kevin McKidd] == 1
+[Dean Stockwell, Harry Dean Stanton] == 1
+[Ivan Lapikov, Nikolay Grinko] == 1
+[Kevin Costner, Mary McDonnell] == 1
+[Roman Griffin Davis, Scarlett Johansson] == 1
+[Martin Sheen, Robert Duvall] == 1
+[Benicio Del Toro, Jason Statham] == 1
+[Ellen Widmann, Otto Wernicke] == 1
+[Enzo Tarascio, Stefania Sandrelli] == 1
+[Steve Buscemi, William H. Macy] == 1
+[Edward G. Robinson, Fred MacMurray] == 1
+[Melvyn Douglas, Peter Sellers] == 1
+[Dick Hogan, Farley Granger] == 1
+[Pushkar, Shraddha Srinath] == 1
+[Charles Chaplin, Jack Oakie] == 1
+[Joan Cusack, Tim Allen] == 1
+[Jack Lemmon, Marilyn Monroe] == 1
+[Pawan Malhotra, Sonam Kapoor] == 1
+[Abdel Ahmed Ghili, Hubert Koundé] == 1
+[Chris Evans, Scarlett Johansson] == 1
+[Dev Patel, Sunny Pawar] == 1
+[Danny Aiello, Ruby Dee] == 1
+[Bruno Ganz, Otto Sander] == 1
+[Halvar Björk, Ingrid Bergman] == 1
+[Gwilym Lee, Lucy Boynton] == 1
+[Jodie Foster, Robert De Niro] == 1
+[Al Pacino, Chris O'Donnell] == 1
+[Aleksandr Kaydanovskiy, Nikolay Grinko] == 1
+[Rosie Shaw, Sam Rockwell] == 1
+[Keira Knightley, Matthew Goode] == 1
+[Loveleen Tandan, Saurabh Shukla] == 1
+[Otto Preminger, Robert Strauss] == 1
+[Michael Stuhlbarg, Timothée Chalamet] == 1
+[Akira Ishihama, Tatsuya Nakadai] == 1
+[Alan Rickman, Bruce Willis] == 1
+[Armie Hammer, Michael Stuhlbarg] == 1
+[Bradley Cooper, Zoe Saldana] == 1
+[Katie A. Keane, Sheetal Menon] == 1
+[Erdem Can, Mete Horozoglu] == 1
+[Michael Bates, Warren Clarke] == 1
+[Jeffrey Ho, Kangana Ranaut] == 1
+[Safak Sezer, Özge Özberk] == 1
+[Jamie Foxx, Kemp Powers] == 1
+[Andrea Tariang, Taapsee Pannu] == 1
+[Gracy Singh, Rachel Shelley] == 1
+[Christopher Heyerdahl, Willem Dafoe] == 1
+[Holmes Osborne, Jena Malone] == 1
+[Don Gordon, Steve McQueen] == 1
+[Djimon Hounsou, Kagiso Kuypers] == 1
+[John Fiedler, Lee J. Cobb] == 1
+[Graham Greene, Rodney A. Grant] == 1
+[Paulette Goddard, Tiny Sandford] == 1
+[Arnold Lucy, Lew Ayres] == 1
+[Diane Kruger, Mélanie Laurent] == 1
+[Roman Griffin Davis, Taika Waititi] == 1
+[Keith David, Kurt Russell] == 1
+[Eva Marie Saint, James Mason] == 1
+[Mickey Rourke, Quentin Tarantino] == 1
+[Corey Feldman, Wil Wheaton] == 1
+[Aurore Clément, Harry Dean Stanton] == 1
+[Alexandra Maria Lara, Daniel Brühl] == 1
+[Fredric March, Gene Kelly] == 1
+[John Matthews, Laurence Olivier] == 1
+[Gastone Moschin, Jean-Louis Trintignant] == 1
+[Dominique McElligott, Sam Rockwell] == 1
+[Catherine Keener, Marcia Gay Harden] == 1
+[Gabrielle Anwar, James Rebhorn] == 1
+[Eleanor Parker, Julie Andrews] == 1
+[Arnold Schwarzenegger, Paul Winfield] == 1
+[Robert Redford, Robert Shaw] == 1
+[Bill Paxton, Jake Gyllenhaal] == 1
+[Hyuk-ho Kwon, Seung-Yun Lee] == 1
+[Eddie Albert, Hartley Power] == 1
+[Jay Baruchel, Morgan Freeman] == 1
+[Octavia Spencer, Viola Davis] == 1
+[Lazar Ristovski, Slavko Stimac] == 1
+[Connie Nielsen, Joaquin Phoenix] == 1
+[Paul Meurisse, Véra Clouzot] == 1
+[Audrey Tautou, Rufus] == 1
+[Abhay Deol, Katrina Kaif] == 1
+[Bodil Rosing, Margaret Livingston] == 1
+[Lee J. Cobb, Max von Sydow] == 1
+[Jose Coronado, Mario Casas] == 1
+[Giustino Durano, Nicoletta Braschi] == 1
+[Al Ernest Garcia, Harry Crocker] == 1
+[Anne Hathaway, Tom Hardy] == 1
+[Enzo Tarascio, Jean-Louis Trintignant] == 1
+[Katharine Ross, William Daniels] == 1
+[Lina Leandersson, Per Ragnar] == 1
+[Charlton Heston, Joseph Calleia] == 1
+[Charlton Heston, Orson Welles] == 1
+[Cho Yeo-jeong, Choi Woo-sik] == 1
+[Graham Greene, Mary McDonnell] == 1
+[Leslie Odom Jr., Renée Elise Goldsberry] == 1
+[Archana Jois, Yash] == 1
+[Bérénice Bejo, Jean Dujardin] == 1
+[David Lee Smith, Ellen Crawford] == 1
+[Gabriel Byrne, Stephen Baldwin] == 1
+[Javier Bardem, Mabel Rivera] == 1
+[Predrag 'Miki' Manojlovic, Slavko Stimac] == 1
+[Julian Dennison, Sam Neill] == 1
+[Rodney Rothman, Shameik Moore] == 1
+[Erdem Can, Çetin Tekindor] == 1
+[Crispin Glover, Lea Thompson] == 1
+[Alexandru Potocean, Vlad Ivanov] == 1
+[Kenshô Ono, Miyu Irino] == 1
+[Gajraj Rao, Neena Gupta] == 1
+[Billy Bob Thornton, Dwight Yoakam] == 1
+[Ramachandra Raju, Yash] == 1
+[Hubert Koundé, Vincent Cassel] == 1
+[Arshad Warsi, Sunil Dutt] == 1
+[Aldo Giuffrè, Lee Van Cleef] == 1
+[Jessica Chastain, Matthew McConaughey] == 1
+[Christopher Mintz-Plasse, Gerard Butler] == 1
+[Vin Diesel, Zoe Saldana] == 1
+[Christian Bale, Scarlett Johansson] == 1
+[Carlos Martínez López, Jason Schwartzman] == 1
+[Akshay Kumar, Prakash Belawadi] == 1
+[Amitabh Bachchan, Sumita Sanyal] == 1
+[Jodie Foster, Kasi Lemmons] == 1
+[Gayatri Joshi, Shah Rukh Khan] == 1
+[John Savage, Robert De Niro] == 1
+[Matthew Broderick, Rob Minkoff] == 1
+[Isuzu Yamada, Toshirô Mifune] == 1
+[Benicio Del Toro, Brad Pitt] == 1
+[Ed Harris, Laura Linney] == 1
+[Nozomu Sasaki, Tesshô Genda] == 1
+[Thomas Bo Larsen, Ulrich Thomsen] == 1
+[Charles Laughton, Marlene Dietrich] == 1
+[Debbie Reynolds, Donald O'Connor] == 1
+[Akshaye Khanna, Preity Zinta] == 1
+[Caitriona Balfe, Christian Bale] == 1
+[James Stewart, Lionel Barrymore] == 1
+[Ping Lam Siu, Tony Chiu-Wai Leung] == 1
+[Kamatari Fujiwara, Misa Uehara] == 1
+[Liam Neeson, Ralph Fiennes] == 1
+[F. Murray Abraham, Mathieu Amalric] == 1
+[Hee Jae, Jin-mo Joo] == 1
+[Kate Mara, Matt Damon] == 1
+[Adil Hussain, Tabu] == 1
+[Jack Oakie, Paulette Goddard] == 1
+[Hemendra Dandotiya, Irrfan Khan] == 1
+[Aamir Bashir, Jimmy Sheirgill] == 1
+[Luàna Bajrami, Valeria Golino] == 1
+[Carrie Henn, Sigourney Weaver] == 1
+[Charles Bronson, Richard Attenborough] == 1
+[Marcello Mastroianni, Yvonne Furneaux] == 1
+[Keira Knightley, Orlando Bloom] == 1
+[Tatsuya Nakadai, Yôko Tsukasa] == 1
+[André S. Labarthe, Sady Rebbot] == 1
+[Gabriel Byrne, Kevin Spacey] == 1
+[Jon Bernthal, Matt Damon] == 1
+[Julie Delpy, Louise Lemoine Torrès] == 1
+[David Morse, Michael Clarke Duncan] == 1
+[Elizabeth McGovern, Treat Williams] == 1
+[Keiju Kobayashi, Yûnosuke Itô] == 1
+[Anne Hathaway, Matthew McConaughey] == 1
+[Liev Schreiber, Mark Ruffalo] == 1
+[George Cukor, Vivien Leigh] == 1
+[Adrien Brody, Frank Finlay] == 1
+[Ivan Bobrov, Vladimir Barskiy] == 1
+[Madhavan, Mona Singh] == 1
+[Ken Watanabe, Tsuyoshi Ihara] == 1
+[Ariane Labed, Seamus Davey-Fitzpatrick] == 1
+[Otto Wernicke, Peter Lorre] == 1
+[Andy Lau, Anthony Chau-Sang Wong] == 1
+[Ayano Shiraishi, Yoshiko Shinohara] == 1
+[Art Malik, Sonam Kapoor] == 1
+[Marianne Koch, Wolfgang Lukschy] == 1
+[Emma Watson, Ezra Miller] == 1
+[John Cazale, Penelope Allen] == 1
+[Elizabeth Taylor, George Segal] == 1
+[Jan Josef Liefers, Thierry van Werveke] == 1
+[Sagarika Ghatge, Shah Rukh Khan] == 1
+[Nicole Kidman, Sunny Pawar] == 1
+[Gajraj Rao, Sanya Malhotra] == 1
+[Eun-ju Lee, Won Bin] == 1
+[Birgitta Valberg, Gunnel Lindblom] == 1
+[Rajesh Khanna, Ramesh Deo] == 1
+[Humphrey Bogart, Tim Holt] == 1
+[Bill Nunn, Tim Roth] == 1
+[Erdem Can, Ismail Hacioglu] == 1
+[Ken Watanabe, Liam Neeson] == 1
+[Ben Gazzara, Lee Remick] == 1
+[Donna Reed, James Stewart] == 1
+[Christopher Carley, Clint Eastwood] == 1
+[Keiko Yokozawa, Mayumi Tanaka] == 1
+[Ki-duk Kim, Kim Young-Min] == 1
+[Edward Norton, Jennifer Lien] == 1
+[Adrien Brody, Ralph Fiennes] == 1
+[Amitabh Bachchan, Dharmendra] == 1
+[Florence Lee, Virginia Cherrill] == 1
+[Conrad Veidt, Friedrich Feher] == 1
+[Carl Benton Reid, Frank Lovejoy] == 1
+[Aoi Yûki, Kenshô Ono] == 1
+[Alida Valli, Orson Welles] == 1
+[Jüri Järvet, Natalya Bondarchuk] == 1
+[Jerry O'Connell, River Phoenix] == 1
+[Julia Greer, Scarlett Johansson] == 1
+[Claudia Cardinale, José Lewgoy] == 1
+[Alec Cawthorne, Michael Caine] == 1
+[Omar Sy, Éric Toledano] == 1
+[Cary Elwes, Chris Sarandon] == 1
+[María Marull, Mónica Villa] == 1
+[Marisa Berenson, Patrick Magee] == 1
+[Graham Norton, Tina Fey] == 1
+[Takeshi Kaneshiro, Tony Chiu-Wai Leung] == 1
+[Klaus Kinski, Miguel Ángel Fuentes] == 1
+[Cate Blanchett, Tom Hiddleston] == 1
+[Heath Ledger, Michael Caine] == 1
+[Billy Crudup, Yuriko Ishida] == 1
+[Anil Dhawan, Ayushmann Khurrana] == 1
+[Matt Damon, Stellan Skarsgård] == 1
+[Edward Furlong, Robert Patrick] == 1
+[John Travolta, Uma Thurman] == 1
+[Brahim Hadjadj, Samia Kerbash] == 1
+[Amy Adams, Jeremy Renner] == 1
