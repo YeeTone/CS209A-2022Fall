@@ -1,0 +1,9 @@
+11910104@mail.sustech.edu.cn
+11910104@mail.sustech.edu.cn
+Test sending email using JavaMail
+Dear all:
+
+This is a test of JavaMail usage.
+
+Best,
+Yitong WANG
