@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.frontend.Controller">
+   <Pane id="base" fx:id="base_square" layoutX="80.0" layoutY="50.0" prefHeight="300.0" prefWidth="300.0">
+      <Rectangle fx:id="game_panel" arcHeight="5.0" arcWidth="5.0" fill="#f2f2f2" height="270.0" layoutX="15.0" layoutY="15.0" stroke="BLACK" strokeType="INSIDE" width="270.0" />
+      <Line endX="170.0" layoutX="115.0" layoutY="105.0" startX="-100.0" />
+      <Line endX="170.0" layoutX="115.0" layoutY="195.0" startX="-100.0" />
+      <Line endX="170.0" layoutX="70.0" layoutY="150.0" rotate="270.0" startX="-100.0" />
+      <Line endX="170.0" layoutX="160.0" layoutY="151.0" rotate="90.0" startX="-100.0" />
+   </Pane>
+   <Button fx:id="pairButton" layoutX="419.0" layoutY="118.0" prefHeight="52.0" prefWidth="166.0" text="Pair">
+      <font>
+         <Font size="26.0" />
+      </font>
+   </Button>
+   <Button fx:id="exitButton" layoutX="419.0" layoutY="193.0" prefHeight="52.0" prefWidth="166.0" text="Exit">
+      <font>
+         <Font size="26.0" />
+      </font>
+   </Button>
+   <Label fx:id="pairedWith" layoutX="419.0" layoutY="62.0" prefHeight="46.0" prefWidth="166.0" text="Paired with">
+      <font>
+         <Font size="14.0" />
+      </font>
+   </Label>
+   <Button fx:id="info" layoutX="419.0" layoutY="265.0" mnemonicParsing="false" prefHeight="52.0" prefWidth="166.0" text="Info">
+      <font>
+         <Font size="24.0" />
+      </font>
+   </Button>
+
+</AnchorPane>
