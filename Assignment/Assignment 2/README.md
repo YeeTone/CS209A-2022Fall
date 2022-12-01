@@ -1,6 +1,14 @@
 # Java2Assign2
 CS209A in 2022 Fall by Mrs. Yida TAO
 
+## Introduction
+
+I hope I never write any code relevant to any of the following topic after this assignment.
+
+- JavaFX Application
+- Java Multithreading
+- Java Socket
+
 ## Code Architecture
 
 ```
