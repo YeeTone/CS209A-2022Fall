@@ -1,4 +1,4 @@
-# Java2Assign2
+# CS209A-22Fall-A2
 CS209A in 2022 Fall by Mrs. Yida TAO
 
 ## Introduction
