@@ -1,1 +1,0 @@
-select count(*) from git_issue where state == 'open'
