@@ -5,21 +5,13 @@ I chose P/F for this course, but still some course materials could be shared her
 
 ## Scores
 
-- Lab
+- Lab: 15/16
 
-15/16
+- Quiz 1: 7/7
 
-- Quiz 1
+- Quiz 2: 8/8
 
-7/7
-
-- Quiz 2
-
-8/8
-
-- Quiz 3
-
-11/11
+- Quiz 3: 11/11
 
 - Assignment 1: Stream and Data Proceeding
   - Functionality: 100/100
