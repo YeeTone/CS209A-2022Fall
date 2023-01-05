@@ -5,7 +5,7 @@ I chose P/F for this course, but still some course materials could be shared her
 
 ## Scores
 
-- Lab: 15/16
+- Lab: 16/15
 
 - Quiz 1: 7/7
 
